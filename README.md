@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-
+My email: [<img align="left" alt="Terminal" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>] [email]
 
 <br />
 
@@ -42,3 +42,4 @@
 </details>
 
 [website]: https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html
+[email]: alex.lepauvre@ae.mpg.de
