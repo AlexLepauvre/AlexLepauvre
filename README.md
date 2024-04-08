@@ -15,3 +15,16 @@ alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://
 <img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/MPI_logo.jpg"/>[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
 
 <img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/cogitate-logo.png"/>[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)
+
+### Language and tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/XNAT.png" title="XNAT" **alt="XNAT" width="40" height="40"/>
+</div>
