@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Science projects and collaborative sciences
 
 ### Connect with me:
-My email: (<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>)[alex.lepauvre@gmail.com]
+My email: [alex.lepauvre@gmail.com]<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>
 
 
 ---
