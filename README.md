@@ -14,6 +14,6 @@ In my PhD, I am investigating the overlooked temporal dimension of experience. I
 ### Connect with me:
 My email: alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>
 
-[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
+<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/MPI_logo.jpg"/>[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
 
-[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)
+<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/cogitate-logo.png"/>[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)
