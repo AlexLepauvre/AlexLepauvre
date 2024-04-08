@@ -5,14 +5,13 @@ I am a doctoral candidate in the research group of neural [Neural Circuits, Cons
 
 In my PhD, I am investigating the overlooked temporal dimension of experience. In our every day life, we may look at an image on social media for a second, before looking up from our phones to appreciate the view for a longer duration. Very little research has aimed to investigate wheter and how experiences are sustained in time. This offers a unique avenue to test theories of consciousness. By venturing beyond the realm of highlgy studied aspects of experience, we can more striclty test theories of consciousness and refine our understanding of the neural mechanisms underlying it. 
 
-### Connect with me:
-My email: alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>
-
 ### Latest publications
 - Lepauvre, Alex, and Lucia Melloni. "The search for the neural correlate of consciousness: Progress and challenges." Philosophy and the Mind Sciences 2 (2021).
 - Melloni, Lucia, et al. "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." PLoS One 18.2 (2023): e0268577.
 - Cogitate Consortium, et al. "An adversarial collaboration to critically evaluate theories of consciousness." BioRxiv (2023): 2023-06.
 - Grassi, Francesco, et al. "Relevance Acquisition through Motivational Incentives." (2023).
 
-[website]: https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html
-[email]: alex.lepauvre@ae.mpg.de
+### Connect with me:
+My email: alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>
+[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
+[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)
