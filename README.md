@@ -5,7 +5,6 @@
 
 - 🔭 I am currently working at the [Max Planck institute for empirical aesthetics](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/alex-lepauvre.html)
 - 🌱 I am currently working on the [Cogitate project](https://www.arc-cogitate.com/alex-lepauvre), trying to bring forward the research on neural basis of conscious experience
-- 🥅 2020 Goals: Contribute more to Open Science projects and collaborative sciences
 
 ### Connect with me:
 My email: alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>
