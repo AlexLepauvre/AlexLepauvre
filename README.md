@@ -64,7 +64,7 @@ alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/XNAT.png" title="XNAT" **alt="XNAT" width="60" height="40"/>
+  <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/XNAT.png" title="XNAT" **alt="XNAT" width="70" height="40"/>
   <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/spm12_logo.webp" title="SPM" **alt="SPM" width="40" height="40"/>
   <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/mne-python.png" title="MNE" **alt="MNE" width="60" height="40"/>
 </div>
