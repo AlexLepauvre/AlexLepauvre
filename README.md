@@ -19,6 +19,7 @@ My commitment for advancing our understanding of conscious experience extends to
 
 <img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/cognitive.png"/> Cognitive neuroscience
 
+
 <img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/univariate.png"/> Univariate statistics
 
 <img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/multivariate.png"/> Multivariate statistics
