@@ -40,7 +40,7 @@ My commitment for advancing our understanding of conscious experience extends to
 <br>
 <br>
 
-# Latest publications
+# Scientific publications
 - Lepauvre, Alex, and Lucia Melloni. "The search for the neural correlate of consciousness: Progress and challenges." Philosophy and the Mind Sciences 2 (2021).
 - Melloni, Lucia, et al. "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." PLoS One 18.2 (2023): e0268577.
 - Cogitate Consortium, et al. "An adversarial collaboration to critically evaluate theories of consciousness." BioRxiv (2023): 2023-06.
