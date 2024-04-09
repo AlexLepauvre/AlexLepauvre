@@ -23,7 +23,7 @@ My commitment for advancing our understanding of conscious experience extends to
 
 <img align="left" alt="email" width="32px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/multivariate.png"/> Multivariate statistics
 
-- Bayesian statistics
+<img align="left" alt="email" width="32px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/bayesian.png"/> Bayesian statistics
 
 ### Latest publications
 - Lepauvre, Alex, and Lucia Melloni. "The search for the neural correlate of consciousness: Progress and challenges." Philosophy and the Mind Sciences 2 (2021).
