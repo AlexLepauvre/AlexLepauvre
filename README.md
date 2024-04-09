@@ -11,8 +11,9 @@ My commitment for advancing our understanding of conscious experience extends to
 
 ## My expertise spans across:
 <br>
-<img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> ### Intracranial electro-encephalography (iEEG) 
-<br>
+<img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> 
+
+#### Intracranial electro-encephalography (iEEG) 
 <br>
 <img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/eeg.png"/> ### Electro-encephalography (EEG)
 <br>
@@ -38,6 +39,7 @@ My commitment for advancing our understanding of conscious experience extends to
 <br>
 <br>
 <br>
+
 # Latest publications
 - Lepauvre, Alex, and Lucia Melloni. "The search for the neural correlate of consciousness: Progress and challenges." Philosophy and the Mind Sciences 2 (2021).
 - Melloni, Lucia, et al. "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." PLoS One 18.2 (2023): e0268577.
