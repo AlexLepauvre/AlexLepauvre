@@ -14,6 +14,7 @@ My commitment for advancing our understanding of conscious experience extends to
 <img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> Intracranial electro-encephalography (iEEG) 
 <br>
 <br>
+<br>
 <img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/eeg.png"/> Electro-encephalography (EEG)
 <br>
 <br>
