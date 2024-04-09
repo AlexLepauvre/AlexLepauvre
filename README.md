@@ -46,4 +46,6 @@ alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://
   <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/mne-python.png" title="MNE" **alt="MNE" width="60" height="40"/>
 </div>
 
+
+### My github stats
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLepauvre)](https://github.com/AlexLepauvre/github-readme-stats)
