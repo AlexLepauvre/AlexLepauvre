@@ -10,9 +10,8 @@ I am also developping novel statistical methods to test theories predictions usi
 My commitment for advancing our understanding of conscious experience extends to the domain of meta-science. I am advocating for improving research practice standards, to increase transparency of all aspects of research project. I am developping new tools and methodologies to set new benchmarks for data collection andd sharing, following the principles of open science. 
 
 ## My expertise spans across:
-
-<img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> ### Intracranial electro-encephalography (iEEG) 
 <br>
+<img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> ### Intracranial electro-encephalography (iEEG) 
 <br>
 <br>
 <img align="left" alt="email" width="50px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/eeg.png"/> ### Electro-encephalography (EEG)
