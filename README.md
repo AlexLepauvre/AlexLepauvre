@@ -11,16 +11,18 @@ My commitment for advancing our understanding of conscious experience extends to
 
 #### My expertise spans across:
 
-<img align="left" alt="email" width="30px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> Intracranial electro-encephalography (iEEG)
+<img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/ieeg.png"/> Intracranial electro-encephalography (iEEG)
 
-<img align="left" alt="email" width="30px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/eeg.png"/> Electro-encephalography (EEG)
+<img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/eeg.png"/> Electro-encephalography (EEG)
 
-<img align="left" alt="email" width="30px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/psychophysic.png"/> Psychophysics
+<img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/psychophysic.png"/> Psychophysics
 
-<img align="left" alt="email" width="30px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/cognitive.png"/> Cognitive neuroscience
+<img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/cognitive.png"/> Cognitive neuroscience
 
-- Univariate statistics
-- Multivariate statistics and machine learning
+<img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/univariate.png"/> Univariate statistics
+
+<img align="left" alt="email" width="35px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/multivariate.png"/> Multivariate statistics
+
 - Bayesian statistics
 
 ### Latest publications
