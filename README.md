@@ -1,4 +1,4 @@
-![Header](https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/banner_github.png))
+![Header](https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/banner_github.png)
 
 ## Biography
 I am a doctoral candidate in the research group of neural [Neural Circuits, Consciousness, and Cognition](https://www.aesthetics.mpg.de/forschung/forschungsgruppe-neural-circuits-consciousness-and-cognition.html) at the [Max Planck institute for empirical aesthetics](https://www.aesthetics.mpg.de). 
