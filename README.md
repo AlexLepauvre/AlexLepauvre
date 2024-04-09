@@ -1,13 +1,28 @@
 ## Biography
-I am a doctoral candidate in the research group of neural [Neural Circuits, Consciousness, and Cognition](https://www.aesthetics.mpg.de/forschung/forschungsgruppe-neural-circuits-consciousness-and-cognition.html) at the [Max Planck institute for empirical aesthetics](https://www.aesthetics.mpg.de). My research focuses on uncovering the neural mechanisms giving rise to conscious experience. This paramount scientific question is far from being resolved and has important real-life application, such as helping patients in comatose or vegetative states to regain consciousness. Unfortunately, the neural underpinnings of consciousness remain elusive and no concensus has emerged as to which brain regions are critical for consciousness to arise nor as to which mechanisms give rise to it. Several theories claim to have uncovered what those mechanisms are, providing empirical evidence to sustain their claims. Yet none have yielded concensus within our research community. Instead of observing a refinement of the explanadum through elimination in face of empirical evidence, each theory appears to gather evidence in parallel without ever being proven wrong. 
+I am a doctoral candidate in the research group of neural [Neural Circuits, Consciousness, and Cognition](https://www.aesthetics.mpg.de/forschung/forschungsgruppe-neural-circuits-consciousness-and-cognition.html) at the [Max Planck institute for empirical aesthetics](https://www.aesthetics.mpg.de). 
 
-In my PhD, I am investigating the overlooked temporal dimension of experience. In our every day life, we may look at an image on social media for a second, before looking up from our phones to appreciate the view for a longer duration. Very little research has aimed to investigate wheter and how experiences are sustained in time. This offers a unique avenue to test theories of consciousness. By venturing beyond the realm of highlgy studied aspects of experience, we can more striclty test theories of consciousness and refine our understanding of the neural mechanisms underlying it. 
+My research focuses on consciousness neuroscience, trying to unravel the neural mechanisms giving rise to conscious experience. To that aim, I am combining theory-driven approaches with neural and psychophysical experimental paradigms to investigate unexplored dimension of conscious experience and the associated neural activation. I have a strong interest in the temporal dimension of experience in the visual domain. I am investigating the temporal dynamics of conscious experience and the underlying neural activation dynamics to test the prediction of theories of consciousness. 
+
+I am also developping novel statistical methods to test theories predictions using bayesian statistics, to enable integration of evidence for various models over experiments, recording modalities and predictions of a particular model. 
+
+My commitment for advancing our understanding of conscious experience extends to the domain of meta-science. I am advocating for improving research practice standards, to increase transparency of all aspects of research project. I am developping new tools and methodologies to set new benchmarks for data collection andd sharing, following the principles of open science. 
+
+My expertise spans across:
+- Electro-physiology
+- Intracranial electro-encephalography (iEEG)
+- Electro-encephalography (EEG)
+- Psychophysics
+- Cognitive neuroscience
+- Univariate statistics
+- Multivariate statistics and machine learning
+- Bayesian statistics
 
 ### Latest publications
 - Lepauvre, Alex, and Lucia Melloni. "The search for the neural correlate of consciousness: Progress and challenges." Philosophy and the Mind Sciences 2 (2021).
 - Melloni, Lucia, et al. "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." PLoS One 18.2 (2023): e0268577.
 - Cogitate Consortium, et al. "An adversarial collaboration to critically evaluate theories of consciousness." BioRxiv (2023): 2023-06.
 - Grassi, Francesco, et al. "Relevance Acquisition through Motivational Incentives." (2023).
+- Lepauvre, Alex, Hirschhorn, Rony, Mudrik, Liad, Melloni, Lucia. "A standardized framework to test event-based experiments" (Under review)
 
 ### Connect with me:
 alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/emailLogo.png"/>
@@ -28,5 +43,5 @@ alex.lepauvre@gmail.com<img align="left" alt="email" width="26px"  src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/XNAT.png" title="XNAT" **alt="XNAT" width="40" height="40"/>
   <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/spm12_logo.webp" title="SPM" **alt="SPM" width="40" height="40"/>
-  <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/mne-python.png" title="MNE" **alt="MNE" width="40" height="40"/>
+  <img src="https://github.com/AlexLepauvre/AlexLepauvre/blob/master/logos/mne-python.png" title="MNE" **alt="MNE" width="60" height="40"/>
 </div>
