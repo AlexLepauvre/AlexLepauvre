@@ -5,7 +5,7 @@ I am a doctoral candidate in the research group of neural [Neural Circuits, Cons
 
 My research focuses on consciousness neuroscience, trying to unravel the neural mechanisms giving rise to conscious experience. I am combining theory-driven approaches with neural and psychophysical experimental paradigms to investigate unexplored dimension of conscious experience and the associated neural activation. I have a strong interest in the temporal dimension of experience in the visual domain. I am investigating the temporal dynamics of conscious experience and the underlying neural activation dynamics to test the prediction of theories of consciousness. 
 
-I am also developping novel statistical methods to test theories predictions using bayesian statistics, to enable integration of evidence for various models over experiments, recording modalities and predictions of a particular model. 
+I am also developping novel statistical methods to test theories predictions using bayesian statistics, to enable integration of evidence for various models over experiments, recording modalities and predictions. 
 
 My commitment for advancing our understanding of conscious experience extends to the domain of meta-science. I am advocating for improving research practice standards, to increase transparency of all aspects of research project. I am developping new tools and methodologies to set new benchmarks for data collection andd sharing, following the principles of open science. 
 
