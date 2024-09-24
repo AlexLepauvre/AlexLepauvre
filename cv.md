@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## <span style="color: white;">Curriculum Vitae</span>
+  ## Curriculum Vitae
 feature_image: "../assets/banner/banner_github.jpg"
 aside: true
 ---

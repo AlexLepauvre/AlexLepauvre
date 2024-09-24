@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## <span style="color: white;">Code</span>
+  ## Code
 feature_image: "../assets/banner/banner_github.jpg"
 aside: true
 ---
