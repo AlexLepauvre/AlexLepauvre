@@ -8,6 +8,8 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 aside: true
 ---
 
+<img src="./assets/AlexLepauvre.jpg" alt="AlexLepauvre" style="float: right; width: 300px; height: auto;"/>
+
 # Biography
 I am a doctoral candidate in the research group of neural Neural Circuits, Consciousness, and Cognition at the Max Planck institute for empirical aesthetics.
 
