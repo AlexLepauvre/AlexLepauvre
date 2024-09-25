@@ -6,10 +6,6 @@ feature_image: "../assets/banner/banner_github.jpg"
 aside: true
 ---
 
-# Alex Lepauvre  
-
-## Working Experience
-
 ### PhD student
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; border: 1px solid #ddd; padding: 10px; margin-right: 10px; background-color: #f9f9f9;">
