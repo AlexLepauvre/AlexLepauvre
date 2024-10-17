@@ -7,123 +7,218 @@ aside: true
 ---
 
 ### PhD student
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; border: 1px solid #ddd; padding: 10px; margin-right: 10px; background-color: #f9f9f9;">
-    <strong>Duration:</strong><br>
-    2020/10 - Present<br>
-    <strong>Institution:</strong><br>
-    Max Planck Institute for Empirical Aesthetics
-  </div>
-  <div style="flex: 3;">
-    <h4>Occupations:</h4>
-    <ul>
-      COGITATE project: an adversarial collaboration to arbitrate between the global neuronal workspace (GNWT) and the integrated information theory (IIT)
-      <ul>
-        <li>Development and deployment of experimental scripts at various locations (New York University, Harvard University, Wisconsin University)</li>
-        <li>Responsible for intracranial electro-encephalography (iEEG) to investigate theories' predictions regarding the temporal dynamics of neural activation and representation under sustained presentation</li>
-        <li>Development of statistical methods (primarily for iEEG but also for MEG)</li>
-        <li>Co-lead of the statistics and plotting uniformization working group</li>
-        <li>Development of the data infrastructure</li>
-        <li>Github instructor for the involved teams</li>
-        <li>Interim project manager for a 3 months period</li>
-      </ul>
-    </ul>
-    <ul>
-       COGITATE data release: release of iEEG data collected as part of the COGITATE project
-      <ul>
-        <li>Collaboration with data documentation and release team to generate extensive metadata</li>
-        <li>Conversion of raw data to BIDS</li>
-        <li>Creation of a python library to download, preprocess and analyze the data</li>
-      </ul>
-    </ul>
-    <ul>
-      Investigating the timing of conscious experience using a dual-task paradigm and quantified introspection
-      <ul>
-        <li>Design of experimental paradigm together with Micha Engeser, Prof. Stanislas Dehaene and Prof. Lucia Melloni</li>
-        <li>Implementation of experimental program together with Micha Engeser</li>
-        <li>Supervision of Micha Engeser (Master student at the time) to collect behavioral and eyetracker data and analyze behavioral data</li>
-        <li>Behavioral and eyetracker data analysis</li>
-      </ul>
-    </ul>
-    <ul>
-      Bayesian evidence accumulation
-      <ul>
-        <li>Development of methods to compute (Bayesian) evidence (i.e. free energy) for time resolved signals (variational representation similarity analysis), in collaboration with Dr. Peter Zeidman and Prof. Karl Friston</li>
-        <li>Operationalization of theoretical model predictions to compute evidence for each prediction in various signals</li>
-        <li>Application of developped methods on iEEG data collected in the COGITATE project </li>
-      </ul>
-    </ul>
+<!-- Style for the timelines and green shading -->
+<style>
+  .timeline {
+    position: relative;
+    padding-left: 40px;
+    margin-bottom: 40px;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 2px;
+    height: 100%;
+    background-color: #2ecc71; /* Green line */
+  }
+
+  .timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 6px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #2ecc71; /* Green dots */
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px #2ecc71;
+  }
+
+  .timeline-box {
+    padding: 15px;
+    background-color: #eafaf1; /* Light green background */
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+  }
+
+  h4 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+
+  .timeline-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+
+  .timeline-content ul ul {
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+
+  .timeline-section {
+    margin-bottom: 50px;
+  }
+
+  .section-header {
+    font-size: 1.5em;
+    color: #2c3e50;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+</style>
+
+<!-- Professional Timeline -->
+<div class="timeline-section">
+  <div class="section-header">Professional Timeline</div>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-box">
+        <div style="display: flex;">
+          <div style="flex: 1;">
+            <strong>Duration:</strong><br>
+            2020/10 - Present<br>
+            <strong>Institution:</strong><br>
+            Max Planck Institute for Empirical Aesthetics
+          </div>
+          <div style="flex: 3;">
+            <h4>PhD Researcher</h4>
+            <div class="timeline-content">
+              <ul>
+                <li>COGITATE project: an adversarial collaboration between GNWT and IIT</li>
+                <ul>
+                  <li>Development of experimental scripts at various locations</li>
+                  <li>iEEG investigations and neural prediction studies</li>
+                  <li>Development of statistical methods (iEEG and MEG)</li>
+                  <li>Co-lead statistics and plotting working group</li>
+                  <li>Project management and Github instructor</li>
+                </ul>
+              </ul>
+              <ul>
+                <li>COGITATE data release: iEEG data documentation and BIDS conversion</li>
+                <ul>
+                  <li>Collaboration for metadata generation and Python library creation</li>
+                </ul>
+              </ul>
+              <ul>
+                <li>Conscious experience timing (dual-task paradigm)</li>
+                <ul>
+                  <li>Experiment design and supervision of data collection</li>
+                </ul>
+              </ul>
+              <ul>
+                <li>Bayesian evidence accumulation methods for iEEG data</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-box">
+        <div style="display: flex;">
+          <div style="flex: 1;">
+            <strong>Duration:</strong><br>
+            2019/08 - 2020/09<br>
+            <strong>Institution:</strong><br>
+            Max Planck Institute for Empirical Aesthetics
+          </div>
+          <div style="flex: 3;">
+            <h4>Lab Manager</h4>
+            <div class="timeline-content">
+              <ul>
+                <li>Design of experimental paradigms for pilot studies</li>
+                <li>Collection of behavioral and eyetracking data</li>
+                <li>Data analysis for various projects</li>
+                <li>Organization of lab meetings and events</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-#### Lab Manager
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; border: 1px solid #ddd; padding: 10px; margin-right: 10px; background-color: #f9f9f9;">
-    <strong>Duration:</strong><br>
-    2019/08 - 2020/09<br>
-    <strong>Institution:</strong><br>
-    Max Planck Institute for Empirical Aesthetics
-  </div>
-  <div style="flex: 3;">
-    <h4>Occupations:</h4>
-    <ul>
-      <li>Design of experimental paradigms for pilots sutdies</li>
-      <li>Collection of behavioral and eyetracking experiments</li>
-      <li>Data analysis for various projects</li>
-      <li>Organization of lab meetings and various events at the Max Planck institute for empirical aesthetics</li>
-    </ul>
+<!-- Education Timeline -->
+<div class="timeline-section">
+  <div class="section-header">Education Timeline</div>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-box">
+        <div style="display: flex;">
+          <div style="flex: 1;">
+            <strong>Duration:</strong><br>
+            2016 - 2019<br>
+            <strong>Institution:</strong><br>
+            Georg August Universitaet, Goettingen
+          </div>
+          <div style="flex: 3;">
+            <h4>M.Sc. Developmental, Neural, and Behavioral Biology | Major: Neuroscience</h4>
+            <div class="timeline-content">
+              <strong>Thesis:</strong> Assessing the role of low-level features in associative learning of valence
+              <ul>
+                <li>Design and analysis of EEG data (24 subjects)</li>
+                <li>Pre-registration and replication with an additional 24 EEG subjects</li>
+                <li>Supervisors: Prof. Schacht, Prof. Scherberger</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-box">
+        <div style="display: flex;">
+          <div style="flex: 1;">
+            <strong>Duration:</strong><br>
+            2013 - 2016<br>
+            <strong>Institution:</strong><br>
+            Universite Angers
+          </div>
+          <div style="flex: 3;">
+            <h4>B.Sc. Organism and Population Biology</h4>
+            <div class="timeline-content">
+              Specialization: Zoology
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-box">
+        <div style="display: flex;">
+          <div style="flex: 1;">
+            <strong>Duration:</strong><br>
+            2013 - 2016<br>
+            <strong>Institution:</strong><br>
+            Lycee Lavoisier, Mayenne
+          </div>
+          <div style="flex: 3;">
+            Specialization: Biology
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-
-## Education:
-
-### M.Sc. Developmental, Neural and Behavioral biology | Major Neuroscience
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; border: 1px solid #ddd; padding: 10px; margin-right: 10px; background-color: #f9f9f9;">
-    <strong>Duration:</strong><br>
-    2016 - 2019<br>
-    <strong>Institution:</strong><br>
-    Georg August Universitaet, Goettingen
-  </div>
-  <div style="flex: 3;">
-    <h4>Occupations:</h4>
-    Master thesis: Assessing the role of low-level features in associative learning of valence
-    <ul>
-      <li>Design of analyses</li>
-      <li>Application of developped methods on 24 subjects EEG data set</li>
-      <li>Pre-registration, collection and replication on an addition 24 EEG subjects</li>
-      Supervisors: *Prof. Schacht, Prof. Scherberger*
-    </ul>
-  </div>
-</div>
-
-### B.Sc. Organism and Population biology
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; border: 1px solid #ddd; padding: 10px; margin-right: 10px; background-color: #f9f9f9;">
-    <strong>Duration:</strong><br>
-    2013 - 2016<br>
-    <strong>Institution:</strong><br>
-    Universite Angers
-  </div>
-  <div style="flex: 3;">
-    Specialization: Zoology
-  </div>
-</div>
-
-### Baccalaureat Scientifique
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; border: 1px solid #ddd; padding: 10px; margin-right: 10px; background-color: #f9f9f9;">
-    <strong>Duration:</strong><br>
-    2013 - 2016<br>
-    <strong>Institution:</strong><br>
-    Lycee Lavoisier, Mayenne
-  </div>
-  <div style="flex: 3;">
-    Specialization: Biology
-  </div>
-</div>
-
-## Misc. Information
-* Languages: French (fluent/native), English (fluent), German (fluent)
-  
+<h2 style="font-weight: bold;">Miscellaneous</h2>
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li>Languages: French (fluent/native), English (fluent), German (fluent)</li>
+</ul>
