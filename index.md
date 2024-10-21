@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## 
+     
 feature_image: "./assets/banner/banner_github.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 aside: true
@@ -51,8 +51,8 @@ My commitment for advancing our understanding of conscious experience extends to
 
 
 # Connect with me:
-[alex.lepauvre@gmail.com](alex.lepauvre@gmail.com)<img align="left" alt="email" width="26px"  src="./assets/logos/emailLogo.jpg"/>
+[alex.lepauvre@gmail.com](alex.lepauvre@gmail.com)<img align="left" alt="email" width="32px"  src="./assets/logos/emailLogo.jpg"/>
 
-<img align="left" alt="email" width="26px"  src="./assets/logos/MPI_logo.jpg"/>[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
+<img align="left" alt="email" width="32px"  src="./assets/logos/MPI_logo.jpg"/>[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
 
-<img align="left" alt="email" width="26px"  src="./assets/logos/cogitate-logo.png"/>[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)
+<img align="left" alt="email" width="32px"  src="./assets/logos/cogitate-logo.png"/>[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)
