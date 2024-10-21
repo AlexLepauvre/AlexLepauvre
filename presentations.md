@@ -13,8 +13,8 @@ aside: true
         border: 0px solid #ddd;
         margin-bottom: 30px;
         background-color: #eafaf1;
-        border-radius: 0px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 0px;
     }
 
     .presentation img {
@@ -23,6 +23,11 @@ aside: true
         border-radius: 0px;
         margin: 5px;
         transition: transform 0.3s ease-in-out; /* Smooth hover effect */
+        float: left; /* Default float for all images */
+    }
+
+    .presentation:nth-child(odd) img {
+        float: right;
     }
 
     .presentation img:hover {
@@ -36,7 +41,7 @@ aside: true
     .presentation-title {
         font-size: 1.1em;
         font-weight: bold;
-        margin-bottom: 2px;
+        margin-bottom: 5px;
         clear: both; /* Ensure it appears below the image */
     }
 
@@ -45,30 +50,18 @@ aside: true
         margin-top: 10px;
     }
 
-    /* For even presentations: Image on the left */
-    .presentation:nth-child(even) img {
-        float: left;
-    }
-
-    /* For odd presentations: Image on the right */
-    .presentation:nth-child(odd) img {
-        float: right;
-    }
-
-    /* Style for the event details below the image */
     .presentation-image-info {
         text-align: left;
-        font-size: 1.1em;
+        font-size: 0.9em;
         color: #777;
-        margin-top: 2px; /* Reduced margin to minimize vertical space */
-        padding: 0; /* No padding for tighter layout */
+        margin-top: 2px;
+        padding: 0;
     }
 
     .presentation-info {
-        margin: 1px 0; /* Minimal margin between the event, date, and location */
-        line-height: 1.2; /* Reduced line-height for compact text */
+        margin: 1px 0;
+        line-height: 1.2;
     }
-
 </style>
 
 <div class="presentation">
