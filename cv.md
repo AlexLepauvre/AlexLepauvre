@@ -5,149 +5,141 @@ feature_text: |
 feature_image: "../assets/banner/banner_github.jpg"
 aside: true
 ---
-
-### PhD student
-<!-- Style for the timelines and green shading -->
+<!-- Style for the timeline with right-aligned location/duration and boxed content -->
 <style>
   .timeline {
-    position: relative;
-    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
     margin-bottom: 40px;
   }
 
-  .timeline::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 15px;
-    width: 2px;
-    height: 100%;
-    background-color: #2ecc71; /* Green line */
-  }
-
   .timeline-item {
-    position: relative;
-    margin-bottom: 20px;
-    padding-left: 20px;
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 40px;
+      position: relative;
   }
 
-  .timeline-item::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 6px;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: #2ecc71; /* Green dots */
-    border: 2px solid #fff;
-    box-shadow: 0 0 0 2px #2ecc71;
+  .timeline-info {
+      width: 150px;
+      margin-right: 20px;
+      text-align: right;
   }
 
-  .timeline-box {
-    padding: 15px;
-    background-color: #eafaf1; /* Light green background */
-    border-radius: 8px;
-    border: 1px solid #ccc;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    margin-bottom: 10px;
+  .timeline-marker {
+      position: relative;
+      margin-right: 20px;
   }
 
-  h4 {
-    color: #2c3e50;
-    margin-bottom: 10px;
+  .timeline-marker::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background-color: #05BF85;
+      border: 2px solid #fff;
+      box-shadow: 0 0 0 2px #05BF85;
+      transform: translateX(-50%);
+      z-index: 2;
+  }
+
+  .timeline-marker::after {
+      content: '';
+      position: absolute;
+      top: 12px; /* Start just below the dot */
+      left: 50%;
+      width: 2px;
+      bottom: -40px; /* Extend slightly beyond the end of the item */
+      background-color: #05BF85;
+      transform: translateX(-50%);
+      z-index: 0;
+  }
+
+  .timeline-item:last-child .timeline-marker::after {
+      display: none;
+  }
+
+  .timeline-content {
+      flex-grow: 1;
+      background-color: #eafaf1;
+      border: 0px solid #ccc;
+      padding: 15px;
+      position: relative;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      z-index: 1;
   }
 
   .timeline-content ul {
-    list-style-type: disc;
-    padding-left: 20px;
+      list-style-type: disc;
+      padding-left: 20px;
+      margin: 0;
   }
 
-  .timeline-content ul ul {
-    list-style-type: circle;
-    padding-left: 20px;
+  .timeline-content ul li {
+      margin-bottom: 5px;
   }
 
-  .timeline-section {
-    margin-bottom: 50px;
+  .timeline-content h4 {
+      margin: 0 0 5px 0;
+      color: #2c3e50;
   }
 
-  .section-header {
-    font-size: 1.5em;
-    color: #2c3e50;
-    font-weight: bold;
-    margin-bottom: 20px;
+  .timeline-content h5 {
+      margin: 0 0 10px 0;
+      color: #777;
   }
+
 </style>
+
 
 <!-- Professional Timeline -->
 <div class="timeline-section">
-  <div class="section-header">Professional Timeline</div>
+  <div class="section-header"><h3>Professional Timeline</h3></div>
   <div class="timeline">
     <div class="timeline-item">
-      <div class="timeline-box">
-        <div style="display: flex;">
-          <div style="flex: 1;">
-            <strong>Duration:</strong><br>
-            2020/10 - Present<br>
-            <strong>Institution:</strong><br>
-            Max Planck Institute for Empirical Aesthetics
-          </div>
-          <div style="flex: 3;">
-            <h4>PhD Researcher</h4>
-            <div class="timeline-content">
-              <ul>
-                <li>COGITATE project: an adversarial collaboration between GNWT and IIT</li>
-                <ul>
-                  <li>Development of experimental scripts at various locations</li>
-                  <li>iEEG investigations and neural prediction studies</li>
-                  <li>Development of statistical methods (iEEG and MEG)</li>
-                  <li>Co-lead statistics and plotting working group</li>
-                  <li>Project management and Github instructor</li>
-                </ul>
-              </ul>
-              <ul>
-                <li>COGITATE data release: iEEG data documentation and BIDS conversion</li>
-                <ul>
-                  <li>Collaboration for metadata generation and Python library creation</li>
-                </ul>
-              </ul>
-              <ul>
-                <li>Conscious experience timing (dual-task paradigm)</li>
-                <ul>
-                  <li>Experiment design and supervision of data collection</li>
-                </ul>
-              </ul>
-              <ul>
-                <li>Bayesian evidence accumulation methods for iEEG data</li>
-              </ul>
-            </div>
-          </div>
-        </div>
+      <!-- Right-aligned Location and Duration Column -->
+      <div class="timeline-info">
+        <div>Max Planck Institute</div>
+        <div>2020/10 - Present</div>
+      </div>
+      <!-- Dot and Line -->
+      <div class="timeline-marker"></div>
+      <!-- Role and Project Column with Box -->
+      <div class="timeline-content">
+        <h4>PhD Researcher</h4>
+        <h5>Projects</h5>
+        <ul>
+          <li>Adversarial collaboration between GNWT and IIT</li>
+          <li>iEEG data documentation and BIDS conversion</li>
+          <li>Conscious experience timing (dual-task paradigm)</li>
+          <li>Bayesian evidence accumulation for iEEG data</li>
+        </ul>
       </div>
     </div>
 
     <div class="timeline-item">
-      <div class="timeline-box">
-        <div style="display: flex;">
-          <div style="flex: 1;">
-            <strong>Duration:</strong><br>
-            2019/08 - 2020/09<br>
-            <strong>Institution:</strong><br>
-            Max Planck Institute for Empirical Aesthetics
-          </div>
-          <div style="flex: 3;">
-            <h4>Lab Manager</h4>
-            <div class="timeline-content">
-              <ul>
-                <li>Design of experimental paradigms for pilot studies</li>
-                <li>Collection of behavioral and eyetracking data</li>
-                <li>Data analysis for various projects</li>
-                <li>Organization of lab meetings and events</li>
-              </ul>
-            </div>
-          </div>
-        </div>
+      <!-- Right-aligned Location and Duration Column -->
+      <div class="timeline-info">
+        <div>Max Planck Institute</div>
+        <div>2019/08 - 2020/09</div>
+      </div>
+      <!-- Dot and Line -->
+      <div class="timeline-marker"></div>
+      <!-- Role and Project Column with Box -->
+      <div class="timeline-content">
+        <h4>Lab Manager</h4>
+        <h5>Projects</h5>
+        <ul>
+          <li>Design of experimental paradigms for pilot studies</li>
+          <li>Collection of behavioral and eyetracking data</li>
+          <li>Data analysis for various projects</li>
+          <li>Organization of lab meetings and events</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -155,64 +147,53 @@ aside: true
 
 <!-- Education Timeline -->
 <div class="timeline-section">
-  <div class="section-header">Education Timeline</div>
+  <div class="section-header"><h3>Education Timeline</h3></div>
   <div class="timeline">
     <div class="timeline-item">
-      <div class="timeline-box">
-        <div style="display: flex;">
-          <div style="flex: 1;">
-            <strong>Duration:</strong><br>
-            2016 - 2019<br>
-            <strong>Institution:</strong><br>
-            Georg August Universitaet, Goettingen
-          </div>
-          <div style="flex: 3;">
-            <h4>M.Sc. Developmental, Neural, and Behavioral Biology | Major: Neuroscience</h4>
-            <div class="timeline-content">
-              <strong>Thesis:</strong> Assessing the role of low-level features in associative learning of valence
-              <ul>
-                <li>Design and analysis of EEG data (24 subjects)</li>
-                <li>Pre-registration and replication with an additional 24 EEG subjects</li>
-                <li>Supervisors: Prof. Schacht, Prof. Scherberger</li>
-              </ul>
-            </div>
-          </div>
-        </div>
+      <!-- Right-aligned Location and Duration Column -->
+      <div class="timeline-info">
+        <div>Georg August Universitaet</div>
+        <div>2016 - 2019</div>
+      </div>
+      <!-- Dot and Line -->
+      <div class="timeline-marker"></div>
+      <!-- Role and Project Column with Box -->
+      <div class="timeline-content">
+        <h4>M.Sc. Developmental, Neural, and Behavioral Biology</h4>
+        <h5>Thesis and Projects</h5>
+        <ul>
+          <li>Thesis: Assessing the role of low-level features in associative learning of valence</li>
+          <li>Design and analysis of EEG data for 24 subjects</li>
+          <li>Pre-registration and replication with an additional 24 EEG subjects</li>
+        </ul>
       </div>
     </div>
 
     <div class="timeline-item">
-      <div class="timeline-box">
-        <div style="display: flex;">
-          <div style="flex: 1;">
-            <strong>Duration:</strong><br>
-            2013 - 2016<br>
-            <strong>Institution:</strong><br>
-            Universite Angers
-          </div>
-          <div style="flex: 3;">
-            <h4>B.Sc. Organism and Population Biology</h4>
-            <div class="timeline-content">
-              Specialization: Zoology
-            </div>
-          </div>
-        </div>
+      <!-- Right-aligned Location and Duration Column -->
+      <div class="timeline-info">
+        <div>Universite Angers</div>
+        <div>2013 - 2016</div>
+      </div>
+      <!-- Dot and Line -->
+      <div class="timeline-marker"></div>
+      <!-- Role and Project Column with Box -->
+      <div class="timeline-content">
+        <h4>B.Sc. Organism and Population Biology</h4>
       </div>
     </div>
 
     <div class="timeline-item">
-      <div class="timeline-box">
-        <div style="display: flex;">
-          <div style="flex: 1;">
-            <strong>Duration:</strong><br>
-            2013 - 2016<br>
-            <strong>Institution:</strong><br>
-            Lycee Lavoisier, Mayenne
-          </div>
-          <div style="flex: 3;">
-            Specialization: Biology
-          </div>
-        </div>
+      <!-- Right-aligned Location and Duration Column -->
+      <div class="timeline-info">
+        <div>Lycee Lavoisier</div>
+        <div>2012</div>
+      </div>
+      <!-- Dot and Line -->
+      <div class="timeline-marker"></div>
+      <!-- Role and Project Column with Box -->
+      <div class="timeline-content">
+        <h4>Baccalaureat Scientifique</h4>
       </div>
     </div>
   </div>
