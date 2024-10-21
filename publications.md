@@ -74,7 +74,7 @@ aside: true
 # Published
 <div class="presentation">
   <a href="https://link.springer.com/article/10.3758/s13428-024-02508-y">
-    <img src="{{ site.baseurl }}/assets/FrameworkFlowChart.JPG" alt="FrameworkFlowChart">
+    <img src="{{ site.baseurl }}/assets/FrameworkFlowChart.jpg" alt="FrameworkFlowChart">
   </a>
   <div class="presentation-image-info">
     <p class="presentation-info">Behavioral research method, Alex Lepauvre, Rony Hirschorn, Katarina Bendtz, Liad Mudrik, Lucia Melloni | 2024</p>
