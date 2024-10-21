@@ -6,7 +6,6 @@ feature_image: "../assets/banner/banner_github.jpg"
 aside: true
 ---
 
-## Talks
 
 ### A practical guide to collaborative consciousness science | ASSC 2022
 <a href="https://ronyhirsch.github.io/collabconsciousness/">
