@@ -48,11 +48,3 @@ My commitment for advancing our understanding of conscious experience extends to
 <br>
 <br>
 <br>
-
-
-# Connect with me:
-[alex.lepauvre@gmail.com](alex.lepauvre@gmail.com)<img align="left" alt="email" width="32px"  src="./assets/logos/emailLogo.jpg"/>
-
-<img align="left" alt="email" width="32px"  src="./assets/logos/MPI_logo.jpg"/>[Max Planck institute](https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html)
-
-<img align="left" alt="email" width="32px"  src="./assets/logos/cogitate-logo.png"/>[ARC-COGITATE](https://www.arc-cogitate.com/alex-lepauvre)

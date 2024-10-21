@@ -135,15 +135,18 @@ navigation_header:
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
-
+    - https://scholar.google.de/citations?user=-6-_qK4AAAAJ&hl=de&oi=ao
+    - alex.lepauvre@gmail.com
     - https://x.com/lepauvrealex
     - https://www.linkedin.com/in/alex-lepauvre-41baa1202/?originalSubdomain=de
     - https://github.com/AlexLepauvre
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GoogleScholar: https://scholar.google.de/citations?user=-6-_qK4AAAAJ&hl=de&oi=ao
-  GitHub: https://github.com/AlexLepauvre
+  email: alex.lepauvre@gmail.com
+  mpiae: https://www.aesthetics.mpg.de/en/the-institute/people/alex-lepauvre.html
   LinkedIn: https://www.linkedin.com/in/alex-lepauvre-41baa1202/?originalSubdomain=de
+  GitHub: https://github.com/AlexLepauvre
   Twitter: https://x.com/lepauvrealex
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
