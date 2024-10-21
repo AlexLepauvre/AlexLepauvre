@@ -152,6 +152,34 @@ aside: true
     <div class="timeline-item">
       <!-- Right-aligned Location and Duration Column -->
       <div class="timeline-info">
+        <div>Donders Institute | Radboud University</div>
+        <div>2020 - Present</div>
+      </div>
+      <!-- Dot and Line -->
+      <div class="timeline-marker"></div>
+      <!-- Role and Project Column with Box -->
+      <div class="timeline-content">
+        <h4>PhD studies</h4>
+        <h5>Thesis</h5>
+        <ul>
+          <li>Temporal Crossroads: Probing the dynamics of experience to refine theories of consciousness</li>
+        </ul>
+        <h5>Projects</h5>
+        <ul>
+          <li>REVIEW: The search for the neural correlate of consciousness: Progress and challenges</li>
+          <li>ARC-COGITATE: An adversarial collaboration to critically evaluate theories of consciousness</li>
+          <li>TESTING FRAMEWORK: A standardized framework to test event-based experiments</li>
+          <li>DATA SET: Open multi-center iEEG dataset with task probing conscious visual perception</li>
+          <li>PRP: Investigating the timing of conscious experience using a dual-task paradigm and quantified introspection</li>
+          <li>METHODS: Variational Representation Similarity Analysis (vRSA) for EEG/MEG</li>
+        </ul>
+      </div>
+    </div>
+
+  <div class="timeline">
+    <div class="timeline-item">
+      <!-- Right-aligned Location and Duration Column -->
+      <div class="timeline-info">
         <div>Georg August Universitaet</div>
         <div>2016 - 2019</div>
       </div>
