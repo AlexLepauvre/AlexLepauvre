@@ -125,12 +125,10 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
-- title: Talks
-  url: /talks/
+- title: Presentations 
+  url: /presentations/
 - title: Code
   url: /code/
-- title: Blog
-  url: /blog/
 - title: CV
   url: /cv/
 
@@ -143,11 +141,10 @@ navigation_footer:
     - https://github.com/AlexLepauvre
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://x.com/lepauvrealex
-  LinkedIn: https://www.linkedin.com/in/alex-lepauvre-41baa1202/?originalSubdomain=de
-  GitHub: https://github.com/AlexLepauvre
   GoogleScholar: https://scholar.google.de/citations?user=-6-_qK4AAAAJ&hl=de&oi=ao
-  RSS: /feed.xml
+  GitHub: https://github.com/AlexLepauvre
+  LinkedIn: https://www.linkedin.com/in/alex-lepauvre-41baa1202/?originalSubdomain=de
+  Twitter: https://x.com/lepauvrealex
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: true
