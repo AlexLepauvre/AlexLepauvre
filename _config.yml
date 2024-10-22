@@ -96,9 +96,9 @@ lang: en-GB # Set the site language
 title: "Alex Lepauvre" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Doctoral candidate in the domain of consciousness research at the Max Planck institute for empirical aesthetics (Frankfurt, Germany) and Donders Institute (Nijmegen, Netherlands). Get in touch!" # Site description and default description, also used in jekyll-seo-tag
-baseurl: "/alexlepauvre_/" # the subpath of your site, e.g. /blog
-url: "https://alexlepauvre.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-repo: "https://github.com/AlexLepauvre/alexlepauvre_"
+baseurl: "/AlexLepauvre/" # the subpath of your site, e.g. /blog
+url: "https://AlexLepauvre.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+repo: "https://github.com/AlexLepauvre/AlexLepauvre"
 email: "alex.lepauvre@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
