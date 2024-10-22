@@ -179,7 +179,7 @@ aside: true
 
 <div class="presentation">
   <a href="https://drive.google.com/file/d/1FzdOdv7TBgsoojZd3WB85eGMDBsY6PvJ/view?usp=sharing">
-    <img src="{{ site.baseurl }}/assets/ASSC2023_Poster.JPG" alt="ASSC2023_Poster">
+    <img src="{{ site.baseurl }}/assets/ASSC2023_Poster.jpg" alt="ASSC2023_Poster">
   </a>
   <div class="presentation-image-info">
     <p class="presentation-info">ASSC 25 (2023) | New York City, USA</p>
@@ -194,7 +194,7 @@ aside: true
 
 <div class="presentation">
   <a href="https://drive.google.com/file/d/1FzdOdv7TBgsoojZd3WB85eGMDBsY6PvJ/view?usp=sharing">
-    <img src="{{ site.baseurl }}/assets/ASSC2023_Poster.JPG" alt="ASSC2023_Poster">
+    <img src="{{ site.baseurl }}/assets/ASSC2023_Poster.jpg" alt="ASSC2023_Poster">
   </a>
   <div class="presentation-image-info">
     <p class="presentation-info">MPIAE institute retreat (2023) | Riedberg, Germany</p>
