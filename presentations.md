@@ -64,6 +64,27 @@ aside: true
     }
 </style>
 
+# Awards
+
+
+<div class="presentation">
+  <a href="https://people.com/sexiest-man-alive-2024-john-krasinski-reveal-8743226">
+    <img src="{{ site.baseurl }}/assets/SexiestManAlive.jpg" alt="OSW_2024">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">Sexiest Man Alive (2024) | United states of America</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Sexiest Man Alive </h3>
+    <p class="presentation-abstract">
+        I am deeply honored to receive this year’s Sexiest Man Alive award from People's Magazine—a recognition of unparalleled distinction in the interdisciplinary field of charisma, aesthetics, and unquantifiable allure. This accolade underscores the importance of confidence, warmth, and a commitment to advancing the science of being unapologetically oneself. I am grateful to the People's Magazine committee for their rigorous peer-review process and for shining a light on the often-overlooked contributions of charm to the global community. This award inspires me to continue pushing the boundaries of what it means to be effortlessly captivating while staying grounded in humility. Thank you for this prestigious acknowledgment—it’s a true privilege.
+    </p>
+  </div>
+</div>
+
+
+# Presentation
+
 <div class="presentation">
   <a href="https://docs.google.com/presentation/d/1yfQzcyf-B8o9TB5DwVuaAd7veTf6mYdJ/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
     <img src="{{ site.baseurl }}/assets/ExperimentTestingFramework.jpg" alt="OSW_2024">
