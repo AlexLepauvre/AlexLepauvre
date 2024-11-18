@@ -65,66 +65,32 @@ aside: true
 </style>
 
 <div class="presentation">
-  <a href="https://ronyhirsch.github.io/collabconsciousness/">
-    <img src="{{ site.baseurl }}/assets/ASSC2022_tutorial.JPG" alt="ASSC2022 tutorial">
+  <a href="https://docs.google.com/presentation/d/1yfQzcyf-B8o9TB5DwVuaAd7veTf6mYdJ/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/ExperimentTestingFramework.JPG" alt="OSW_2024">
   </a>
   <div class="presentation-image-info">
-    <p class="presentation-info">ASSC 25 (2022) | Amsterdam, Netherlands</p>
+    <p class="presentation-info">Open Science Workshop (2024) | Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany</p>
   </div>
   <div class="presentation-content">
-    <h3 class="presentation-title">A practical guide to collaborative consciousness science</h3>
+    <h3 class="presentation-title">Ensuring Experimental Integrity </h3>
     <p class="presentation-abstract">
-      In this tutorial, we introduced our listeners to various challenges faced when embarking in a collaborative scientific exercise 
-        and shared some of the solutions and wisdom we gained from engaging in one ourselves. I held this tutorial together with 
-        <a href="https://www.arc-cogitate.com/tanya-brown">Tanya Brown</a>, 
-        <a href="https://scholar.google.co.il/citations?user=Ie-iMfQAAAAJ&hl=en">Rony Hirschhorn</a>, 
-        and <a href="https://scholar.google.com/citations?user=aI8u_WUAAAAJ&hl=en">Csaba Kozma</a>.
-        </p>
-  </div>
-</div>
-
-
-<div class="presentation">
-  <a href="https://docs.google.com/presentation/d/1EKYt0GRoWMrSIlrjEksMhKPLE0ob7VyU/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
-    <img src="{{ site.baseurl }}/assets/PhDRetreat_2023.JPG" alt="PhDRetreat_2023">
-  </a>
-  <div class="presentation-image-info">
-    <p class="presentation-info">PhD Retreat (2022) | Freiburg, Germany</p>
-  </div>
-  <div class="presentation-content">
-    <h3 class="presentation-title">Discussion and advice on how to facilitate working together in science</h3>
-    <p class="presentation-abstract">
-        In this workshop, I shared several practical advice with my fellow Phd colleagues on the few easy steps that can be taken to facilitates working together with other scientists (use git and github, define a clear data architecture a priori...)
+        This workshop addresses the critical gap in testing and reporting experimental setups, a key but overlooked factor in the replication crisis. Participants will learn a practical framework to assess and document the performance of their experimental designs. Through hands-on exercises with tools like PsychoPy and Psychtoolbox, attendees will perform pre-run checks, execute experiments, analyze results, and share findings on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality and foster collaboration across the field.
+        You an attend remotely on the [27th of November 2024 at 14:00](https://eu02web.zoom.us/webinar/register/WN_1sRJHc6vSu-5hCFFYQRXjw#/registration)
     </p>
   </div>
 </div>
 
 <div class="presentation">
-  <a href="https://docs.google.com/presentation/d/1cgVHgf6akIXfDXNbY5E1Ek9SYPp26f9s/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
-    <img src="{{ site.baseurl }}/assets/TuesdayLunchTalk_2023.JPG" alt="TuesdayLunchTalk_2023">
+  <a href="https://docs.google.com/presentation/d/12HOAYTpHqJk23c1kug-GemE370DZX879/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/PUG_2024.JPG" alt="PUG_2024PUG_2024">
   </a>
   <div class="presentation-image-info">
-    <p class="presentation-info">Tuesday Lunch Talk (2022) | MPIAE, Frankfurt, Germany</p>
+    <p class="presentation-info">Psychology and brain conference (2024) | Psychology and brain conference, Hamburg, Germany</p>
   </div>
   <div class="presentation-content">
-    <h3 class="presentation-title">Refining our understanding of the neural mechanisms enabling consciousness by relying on theories predictive power</h3>
+    <h3 class="presentation-title">Temporal dynamics of visual conscious experience </h3>
     <p class="presentation-abstract">
-        In this talk, I present the result of my investigations regarding the neural mechanisms associated with conscious experience and highlight how we can rely on theories of consciousness to guide experiments and discoveries. For the most part, consciousness research has been conducted in a bottom up fashion, where experiments are being designed to isolate neural activity patterns that are systematically associated with consciousness. Based on the results of such experiments, theories of consciousness were formulated, proposing overarching mechanisms to be the source of consciousness. However, the field is currently fragmented, such that different theories are pursued in parallel, considering only part of the existing empirical evidence to be conclusive and discarding others based on methodological discords. In my research, I aim to help move the field forward by relying on a top down approach instead, whereby theories of consciousness formulate predictions a priori based on their current model. Failure to observe these predictions imply that the theories are at the very least incomplete and must be further refined.
-    </p>
-  </div>
-</div>
-
-<div class="presentation">
-  <a href="https://docs.google.com/presentation/d/1YoTiGseyI7093GwbzbeCHxiHJ7_rhiVq/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
-    <img src="{{ site.baseurl }}/assets/iEEGSeminar_2023.JPG" alt="iEEGSeminar_2023">
-  </a>
-  <div class="presentation-image-info">
-    <p class="presentation-info">Tuesday Lunch Talk (2023) | iEEG Research Seminar, NYU Langone Health, USA</p>
-  </div>
-  <div class="presentation-content">
-    <h3 class="presentation-title">Unraveling the Dynamics of Sustained Visual Experience: Exploring Neural Activation with Varying Stimulus Durations | Tuesday Lunch Talk, Max Planck institute for empirical aesthetics, 2023</h3>
-    <p class="presentation-abstract">
-        I presented the results of studies in which we explored the neural mechanisms that sustain conscious perception, beyond the initial entry into awareness. Using visual stimuli of different durations, alongside invasive electrophysiology and behavioral reports from epilepsy patients, we tested predictions from Integrated Information Theory (IIT) and Global Neuronal Workspace Theory (GNW). We found sustained activation in posterior regions but only transient activation in the prefrontal cortex, suggesting it may not be crucial for consciousness. Additional behavioral tests indicated that conscious while participants consciously experience the onset and offset of the visual stimulus, the depth of conscious processing of the offset was much shallower and potentially not present on every single trial.
+        This talk explored the neural dynamics involved in sustaining conscious perception beyond stimulus entry. In the first study, we found that activation in the posterior cortex was linked to stimulus duration, while the prefrontal cortex (PFC) showed only brief activation at the onset. The second study used the psychological refractory period (PRP) to investigate the coupling between experience and stimulus presentation, showing delays in reaction times for both stimulus onset and offset, suggesting a link between conscious experience and presentation dynamics. Combined, our results challenge the role of PFC as an NCC candidate. However, the lack of a PRP effect on short trials suggests that temporal coupling may not be systematic. To fully leverage the temporal dimension of experience to isolate the NCC, further studies resolving the dynamics of experience on a single-trial basis are required. 
     </p>
   </div>
 </div>
@@ -145,17 +111,66 @@ aside: true
 </div>
 
 <div class="presentation">
-  <a href="https://docs.google.com/presentation/d/12HOAYTpHqJk23c1kug-GemE370DZX879/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
-    <img src="{{ site.baseurl }}/assets/PUG_2024.JPG" alt="PUG_2024PUG_2024">
+  <a href="https://docs.google.com/presentation/d/1YoTiGseyI7093GwbzbeCHxiHJ7_rhiVq/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/iEEGSeminar_2023.JPG" alt="iEEGSeminar_2023">
   </a>
   <div class="presentation-image-info">
-    <p class="presentation-info">Psychology and brain conference (2024) | Psychology and brain conference, Hamburg, Germany</p>
+    <p class="presentation-info">Tuesday Lunch Talk (2023) | iEEG Research Seminar, NYU Langone Health, USA</p>
   </div>
   <div class="presentation-content">
-    <h3 class="presentation-title">Temporal dynamics of visual conscious experience </h3>
+    <h3 class="presentation-title">Unraveling the Dynamics of Sustained Visual Experience: Exploring Neural Activation with Varying Stimulus Durations | Tuesday Lunch Talk, Max Planck institute for empirical aesthetics, 2023</h3>
     <p class="presentation-abstract">
-        This talk explored the neural dynamics involved in sustaining conscious perception beyond stimulus entry. In the first study, we found that activation in the posterior cortex was linked to stimulus duration, while the prefrontal cortex (PFC) showed only brief activation at the onset. The second study used the psychological refractory period (PRP) to investigate the coupling between experience and stimulus presentation, showing delays in reaction times for both stimulus onset and offset, suggesting a link between conscious experience and presentation dynamics. Combined, our results challenge the role of PFC as an NCC candidate. However, the lack of a PRP effect on short trials suggests that temporal coupling may not be systematic. To fully leverage the temporal dimension of experience to isolate the NCC, further studies resolving the dynamics of experience on a single-trial basis are required. 
+        I presented the results of studies in which we explored the neural mechanisms that sustain conscious perception, beyond the initial entry into awareness. Using visual stimuli of different durations, alongside invasive electrophysiology and behavioral reports from epilepsy patients, we tested predictions from Integrated Information Theory (IIT) and Global Neuronal Workspace Theory (GNW). We found sustained activation in posterior regions but only transient activation in the prefrontal cortex, suggesting it may not be crucial for consciousness. Additional behavioral tests indicated that conscious while participants consciously experience the onset and offset of the visual stimulus, the depth of conscious processing of the offset was much shallower and potentially not present on every single trial.
     </p>
+  </div>
+</div>
+
+<div class="presentation">
+  <a href="https://docs.google.com/presentation/d/1cgVHgf6akIXfDXNbY5E1Ek9SYPp26f9s/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/TuesdayLunchTalk_2023.JPG" alt="TuesdayLunchTalk_2023">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">Tuesday Lunch Talk (2022) | MPIAE, Frankfurt, Germany</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Refining our understanding of the neural mechanisms enabling consciousness by relying on theories predictive power</h3>
+    <p class="presentation-abstract">
+        In this talk, I present the result of my investigations regarding the neural mechanisms associated with conscious experience and highlight how we can rely on theories of consciousness to guide experiments and discoveries. For the most part, consciousness research has been conducted in a bottom up fashion, where experiments are being designed to isolate neural activity patterns that are systematically associated with consciousness. Based on the results of such experiments, theories of consciousness were formulated, proposing overarching mechanisms to be the source of consciousness. However, the field is currently fragmented, such that different theories are pursued in parallel, considering only part of the existing empirical evidence to be conclusive and discarding others based on methodological discords. In my research, I aim to help move the field forward by relying on a top down approach instead, whereby theories of consciousness formulate predictions a priori based on their current model. Failure to observe these predictions imply that the theories are at the very least incomplete and must be further refined.
+    </p>
+  </div>
+</div>
+
+<div class="presentation">
+  <a href="https://docs.google.com/presentation/d/1EKYt0GRoWMrSIlrjEksMhKPLE0ob7VyU/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/PhDRetreat_2023.JPG" alt="PhDRetreat_2023">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">PhD Retreat (2022) | Freiburg, Germany</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Discussion and advice on how to facilitate working together in science</h3>
+    <p class="presentation-abstract">
+        In this workshop, I shared several practical advice with my fellow Phd colleagues on the few easy steps that can be taken to facilitates working together with other scientists (use git and github, define a clear data architecture a priori...)
+    </p>
+  </div>
+</div>
+
+<div class="presentation">
+  <a href="https://ronyhirsch.github.io/collabconsciousness/">
+    <img src="{{ site.baseurl }}/assets/ASSC2022_tutorial.JPG" alt="ASSC2022 tutorial">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">ASSC 25 (2022) | Amsterdam, Netherlands</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">A practical guide to collaborative consciousness science</h3>
+    <p class="presentation-abstract">
+      In this tutorial, we introduced our listeners to various challenges faced when embarking in a collaborative scientific exercise 
+        and shared some of the solutions and wisdom we gained from engaging in one ourselves. I held this tutorial together with 
+        <a href="https://www.arc-cogitate.com/tanya-brown">Tanya Brown</a>, 
+        <a href="https://scholar.google.co.il/citations?user=Ie-iMfQAAAAJ&hl=en">Rony Hirschhorn</a>, 
+        and <a href="https://scholar.google.com/citations?user=aI8u_WUAAAAJ&hl=en">Csaba Kozma</a>.
+        </p>
   </div>
 </div>
 
