@@ -65,7 +65,22 @@ aside: true
 </style>
 
 # Presentation
-
+<div class="presentation">
+  <a href="https://docs.google.com/presentation/d/12nj4dgPJ6eTYF0ej4ER6HjwLEd9zI5WK/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/CurvenoteTutorial.JPG" alt="Curvenote">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">NCC lab meeting presentation | Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Introducing curvenote and pylustrator </h3>
+    <p class="presentation-abstract">
+        In this meeting, I presented new tools I have recently discovered, making the process of writing a paper and creating  figures much more transparent, reproducible and 
+        efficient with python. I first introduce the <curvenote href="[url](https://curvenote.com/docs/publish/cli-overview)"> client, a tool that enables to integrate the output of Jupyter notebook cells in a separate markdown (MyST) that can be exported to
+        papers templates from various journals. I then introduced the <pylustrator href="[url](https://pylustrator.readthedocs.io/en/latest/)"> python package, which provides a GUI to organize figure panels and returns the modified matplotlib to generate the figure!
+    </p>
+  </div>
+</div>
 
 <div class="presentation">
   <a href="https://docs.google.com/presentation/d/1yfQzcyf-B8o9TB5DwVuaAd7veTf6mYdJ/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
@@ -78,8 +93,6 @@ aside: true
     <h3 class="presentation-title">Ensuring Experimental Integrity </h3>
     <p class="presentation-abstract">
         This workshop addresses the critical gap in testing and reporting experimental setups, a key but overlooked factor in the replication crisis. Participants will learn a practical framework to assess and document the performance of their experimental designs. Through hands-on exercises with tools like PsychoPy and Psychtoolbox, attendees will perform pre-run checks, execute experiments, analyze results, and share findings on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality and foster collaboration across the field.
-        
-        You an attend remotely on the <a href="[url](https://eu02web.zoom.us/webinar/register/WN_1sRJHc6vSu-5hCFFYQRXjw#/registration)">27th of November 2024 at 14:00</a>
     </p>
   </div>
 </div>
