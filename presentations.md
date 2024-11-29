@@ -67,23 +67,6 @@ aside: true
 # Presentation
 
 <div class="presentation">
-  <a href="https://docs.google.com/presentation/d/12nj4dgPJ6eTYF0ej4ER6HjwLEd9zI5WK/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
-    <img src="{{ site.baseurl }}/assets/CurvenoteTutorial.JPG" alt="Curvenote">
-  </a>
-  <div class="presentation-image-info">
-    <p class="presentation-info">NCC lab meeting presentation | Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany</p>
-  </div>
-  <div class="presentation-content">
-    <h3 class="presentation-title">Introducing curvenote and pylustrator </h3>
-    <p class="presentation-abstract">
-        In this meeting, I presented new tools I have recently discovered, making the process of writing a paper and creating  figures much more transparent, reproducible and 
-        efficient with python. I first introduce the <curvenote href="[url](https://curvenote.com/docs/publish/cli-overview)"> client, a tool that enables to integrate the output of Jupyter notebook cells in a separate markdown (MyST) that can be exported to
-        papers templates from various journals. I then introduced the <pylustrator href="[url](https://pylustrator.readthedocs.io/en/latest/)"> python package, which provides a GUI to organize figure panels and returns the modified matplotlib to generate the figure!
-    </p>
-  </div>
-</div>
-
-<div class="presentation">
   <a href="https://docs.google.com/presentation/d/1yfQzcyf-B8o9TB5DwVuaAd7veTf6mYdJ/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
     <img src="{{ site.baseurl }}/assets/ExperimentTestingFramework.jpg" alt="OSW_2024">
   </a>
