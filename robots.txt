@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alexlepauvre.github.io/AlexLepauvre/sitemap.xml
