@@ -65,6 +65,7 @@ aside: true
 </style>
 
 # Presentation
+
 <div class="presentation">
   <a href="https://docs.google.com/presentation/d/12nj4dgPJ6eTYF0ej4ER6HjwLEd9zI5WK/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
     <img src="{{ site.baseurl }}/assets/CurvenoteTutorial.JPG" alt="Curvenote">
