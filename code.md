@@ -6,7 +6,6 @@ feature_image: "../assets/banner/banner_github.jpg"
 aside: true
 ---
 
-# Published code:
 - Lepauvre, A., Henin, S., Bendtz, K., Sripad, P., Bonacchi, N., Kreiman, G., Melloni, L. COGITATE-iEEG-DATA-RELEASE [(2024)](https://github.com/Cogitate-consortium/iEEG-data-release/releases/tag/v.0.1.0-beta)
 - Lepauvre, A., Rony, H., Bendtz, K., Mudrik, L., Melloni, L. Experiment testing framework [(2024)](https://github.com/Cogitate-consortium/ExperimentTestingFramework/releases/tag/v1.0)
 

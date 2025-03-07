@@ -67,9 +67,28 @@ aside: true
 
 
 # Upcoming
+
+## Articles
 - Zeidman, P., Lepauvre, A., Melloni, L., Friston, K. Variational Representation Similarity Analysis (vRSA) for EEG/MEG, *in prep*
 - Lepauvre, A., Engeser, M., Dehaene, M., Melloni, L. Investigating the timing of conscious experience using a dual-task paradigm and quantified introspection. *in prep*
 - Seedat, A., Lepauvre, A., Jeschke, J., Gorska-Klimowska, U., et al. Open multi-center iEEG dataset with task probing conscious visual perception (2024). Submitted at Scientific data
+
+## Book 
+<div class="presentation">
+  <a href="https://alexlepauvre.github.io/variation_laplace_for_dummies/intro.html">
+    <img src="{{ site.baseurl }}/assets/VLFordummies.jpg" alt="VLFordummies">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">Alex Lepauvre, Jan-Gabriel Hartel | (IN PREP)</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Variational Laplace for dummies</h3>
+    <p class="presentation-abstract">
+      Thanks to the Bayes theorem, it is possible to compute the (posterior) probability of parameters given observed data. Many have argued in recent years that Bayesian inference should 
+      supplant frequentist statistics. The adoption of Bayesian inference has however been limited, due to the perceived complexity of the approach, which often requires the use of complex sampling procedure to approximate unkown quantities. Variational Laplace offers an alternative to these computational approaches and readily offers alternatives to the frequentist statistical tests routinely used in neuroscience (GLM, mutlivariate pattern analyses). This method is however often discussed in highly technical papers, which may be intimidating to most readers. In this book, we demystify variational Laplace by presenting it in an intuititive and accessible fashion. Starting from the simplest possible statistical model (linear regression) most reader will be familiar with, we work our way up through verbal explanation, code examples and mathematical formulae. Whether you're a student, researcher, or curious thinker, this book will help you build a solid understanding of variational inference without getting lost in dense equations.
+        </p>
+  </div>
+</div>
 
 # Published
 <div class="presentation">
