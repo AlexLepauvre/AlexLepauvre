@@ -66,6 +66,20 @@ aside: true
 
 # Presentation
 
+<div class="presentation">
+  <a href="https://docs.google.com/presentation/d/19eWonRRVG8IVIoWQs-QNFPdzk2cXcujY/edit?usp=sharing&ouid=102857042721257996804&rtpof=true&sd=true">
+    <img src="{{ site.baseurl }}/assets/ExperimentTestingFrameworkTeaP.JPG" alt="ExperimentTestingFrameworkTeaP">
+  </a>
+  <div class="presentation-image-info">
+    <p class="presentation-info">Open science workshop (2025) | TeaP, Frankfurt, Germany</p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Ensuring Experimental Accuracy: A Framework for Testing and Reporting Setup Performance</h3>
+    <p class="presentation-abstract">
+          In this workshop, I presented the framework I have developped with Rony Hirschhorn, Katarina Bendtz, Liad Mudrik and Lucia Melloni to test experimental setups used to conduct event based visual experiments. After introducing the need for thorough and standardized testing of experimental setups to ensure that the expected experimental paradigm is fullfiled in practice, I offer a practical example based on a dummy experiment to illustrate how to conduct our  test battery in its entirety and how to report the results on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality, faciliate replication and foster collaboration across the field.
+    </p>
+  </div>
+</div>
 
 <div class="presentation">
   <a href="https://docs.google.com/presentation/d/12nj4dgPJ6eTYF0ej4ER6HjwLEd9zI5WK/edit?usp=drive_link&ouid=102857042721257996804&rtpof=true&sd=true">
