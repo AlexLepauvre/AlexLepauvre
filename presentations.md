@@ -68,11 +68,25 @@ aside: true
 
 <div class="presentation">
   <div class="presentation-image-info">
-    <p class="presentation-info">Open science workshop (2025) | TeaP, Frankfurt, Germany</p>
+    <p class="presentation-info">Research talk (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">Meeting of the Alhambra, Granada</a></p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Sustaining conscious experience</h3>
+    <p class="presentation-abstract">
+      Traditional consciousness research relies on the contrastive method, aiming to isolate neural correlates of consciousness (NCCs) by comparing conscious and unconscious conditions. However, this approach faces major limitations, including confounds and ambiguity in interpreting both positive and negative findings. To overcome these issues, we focused on necessity dissociation: testing whether mechanisms proposed to be necessary for consciousness are absent even when experience is clearly present. In our first study (<a href="https://www.arc-cogitate.com/">ARC-cogitate</a>), we used intracranial EEG during sustained visual stimulation and found that posterior sensory regions tracked stimulus duration, while prefrontal cortex (PFC) activity was transient. This challenges theories like the global workspace theory (GNWT) that assign a central role to the PFC. Motivated by these results, our second study used the psychological refractory period (PRP) to track conscious access over time, revealing that conscious processing can decouple from stimulus dynamics. Together, these findings introduce a novel approach for testing theories of consciousness and highlight the complex relationship between sensory input and conscious experience.
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkl9MqGS0XBIDRmwg10vIT6foZeQDTa-zUP_DmcJ_2j-HCj9g7_YZY3x002HCilg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </p>
+  </div>
+</div>
+
+<div class="presentation">
+  <div class="presentation-image-info">
+    <p class="presentation-info">Research talk (2025) | <a href="https://coms.app/TeaP2025/welcome.html">TeaP, Frankfurt am Main</a></p>
   </div>
   <div class="presentation-content">
     <h3 class="presentation-title">How Does the Brain Sustain Visual Experiences?</h3>
     <p class="presentation-abstract">
+      While much research has focused on how (visual) stimuli enter awareness, less is known about how experiences persist and relate to sensory input. We addressed this questions in two studies using sustained visual stimuli. I first present evidence from intracranial EEG from the <a href="https://www.arc-cogitate.com/">ARC-cogitate</a> project, which reveal that while posterior sensory regions tracked stimulus duration, prefrontal cortex (PFC) activity was transient, challenging theories like the global workspace theory (GNWT) that assign a central role to the PFC in consciousness. Study 2, using the psychological refractory period (PRP) as a measure of conscious engagement, showed that conscious processing was independent of stimulus duration. Together, these findings suggest that conscious experience can decouple from sensory input even in simple conditions, with important implications for theories of consciousness.
           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiCc-6_GULMVDmcM778rzRrWTq7hmxxytm_XOX5dq-3ojdYKlnoWlsnR-UKxqdkA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
@@ -80,13 +94,13 @@ aside: true
 
 <div class="presentation">
   <div class="presentation-image-info">
-    <p class="presentation-info">Open science workshop (2025) | TeaP, Frankfurt, Germany</p>
+      <p class="presentation-info">Research talk (2025) | <a href="https://coms.app/TeaP2025/welcome.html">TeaP, Frankfurt am Main</a></p>
   </div>
   <div class="presentation-content">
     <h3 class="presentation-title">Ensuring Experimental Accuracy: A Framework for Testing and Reporting Setup Performance</h3>
     <p class="presentation-abstract">
-          In this workshop, I presented the framework I have developped with Rony Hirschhorn, Katarina Bendtz, Liad Mudrik and Lucia Melloni to test experimental setups used to conduct event based visual experiments. After introducing the need for thorough and standardized testing of experimental setups to ensure that the expected experimental paradigm is fullfiled in practice, I offer a practical example based on a dummy experiment to illustrate how to conduct our  test battery in its entirety and how to report the results on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality, faciliate replication and foster collaboration across the field.
-          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAD2bgeKQusTRFhGT8tfX7H0DCOCFSvW9hiwcyAsq2npGSXE7j5hWPdJSoJuyecw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+          In this workshop, I presented the <a href="https://link.springer.com/article/10.3758/s13428-024-02508-y">framework</a> I have developped with Rony Hirschhorn, Katarina Bendtz, Liad Mudrik and Lucia Melloni to test experimental setups used to conduct event based visual experiments. After introducing the need for thorough and standardized testing of experimental setups to ensure that the expected experimental paradigm is fullfiled in practice, I offer a practical example based on a dummy experiment to illustrate how to conduct our  test battery in its entirety and how to report the results on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality, faciliate replication and foster collaboration across the field.
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAD2bgeKQusTRFhGT8tfX7H0DCOCFSvW9hiwcyAsq2npGSXE7j5hWPdJSoJuyecw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -101,7 +115,7 @@ aside: true
         In this meeting, I presented new tools I have recently discovered, making the process of writing a paper and creating  figures much more transparent, reproducible and 
         efficient with python. I first introduce the <a href="[url](https://curvenote.com/docs/publish/cli-overview)">curvenote</a> client, a tool that enables to integrate the output of Jupyter notebook cells in a separate markdown (MyST) that can be exported to
         papers templates from various journals. I then introduced the <a href="[url](https://pylustrator.readthedocs.io/en/latest/)">pylustrator</a> python package, which provides a GUI to organize figure panels and returns the modified matplotlib to generate the figure!
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4q2BDluPfBcuuJYFt4PgZvzi3HJdWZ8Xwv73tboptrsnDC4XO0kOCFMA1ID2w0A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4q2BDluPfBcuuJYFt4PgZvzi3HJdWZ8Xwv73tboptrsnDC4XO0kOCFMA1ID2w0A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -114,21 +128,21 @@ aside: true
   <div class="presentation-content">
     <h3 class="presentation-title">Ensuring Experimental Integrity </h3>
     <p class="presentation-abstract">
-        This workshop addresses the critical gap in testing and reporting experimental setups, a key but overlooked factor in the replication crisis. Participants will learn a practical framework to assess and document the performance of their experimental designs. Through hands-on exercises with tools like PsychoPy and Psychtoolbox, attendees will perform pre-run checks, execute experiments, analyze results, and share findings on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality and foster collaboration across the field.
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLjA-6kmSC1Ae0x-xKSaDIrfcQsOT0iT2BbT7vrANBEa16zg9lzK4TsM4-u1CZbQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        This workshop addresses the critical gap in testing and reporting <a href="https://link.springer.com/article/10.3758/s13428-024-02508-y">experimental setups</a> experimental setups, a key but overlooked factor in the replication crisis. Participants will learn a practical framework to assess and document the performance of their experimental designs. Through hands-on exercises with tools like PsychoPy and Psychtoolbox, attendees will perform pre-run checks, execute experiments, analyze results, and share findings on protocols.io. By promoting transparency and reproducibility, this session equips researchers with essential skills to enhance research quality and foster collaboration across the field.
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLjA-6kmSC1Ae0x-xKSaDIrfcQsOT0iT2BbT7vrANBEa16zg9lzK4TsM4-u1CZbQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
 
 <div class="presentation">
   <div class="presentation-image-info">
-    <p class="presentation-info">Psychology and brain conference (2024) | Psychology and brain conference, Hamburg, Germany</p>
+    <p class="presentation-info">Research talk (2024) | <a href="https://pug2024.de/index-en.html">Psychology and the brain conference (PuG), Hamburg</a></p>
   </div>
   <div class="presentation-content">
     <h3 class="presentation-title">Temporal dynamics of visual conscious experience </h3>
     <p class="presentation-abstract">
         This talk explored the neural dynamics involved in sustaining conscious perception beyond stimulus entry. In the first study, we found that activation in the posterior cortex was linked to stimulus duration, while the prefrontal cortex (PFC) showed only brief activation at the onset. The second study used the psychological refractory period (PRP) to investigate the coupling between experience and stimulus presentation, showing delays in reaction times for both stimulus onset and offset, suggesting a link between conscious experience and presentation dynamics. Combined, our results challenge the role of PFC as an NCC candidate. However, the lack of a PRP effect on short trials suggests that temporal coupling may not be systematic. To fully leverage the temporal dimension of experience to isolate the NCC, further studies resolving the dynamics of experience on a single-trial basis are required. 
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyZMpGRAW503qCWkHo1aIFDnMayreTx0GvxUVa7dxv7cbvopsuiRs8SJeA9oCgqg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyZMpGRAW503qCWkHo1aIFDnMayreTx0GvxUVa7dxv7cbvopsuiRs8SJeA9oCgqg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -141,7 +155,7 @@ aside: true
     <h3 class="presentation-title">Bayesian tools to investigate the neural correlates of sustained visual presentation</h3>
     <p class="presentation-abstract">
         In this talk, I focused on presenting novel statistical analysis tools to compute global amount of evidence for a given theory that formulated several predictions across several recording modalities and experiment. By leveraging recent advancements in Bayesian inference, it is possible to approximate the log of evidence for a particular model (i.e. Marginal likelihood) as the free energy. This quantity can then simply be summed across predictions and recording modalities and compared against an alternative model (whose predictions concerned the same data) to arbitrate between the two across all the data being investigated.  
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnwYhPoS8jibf2Vz8M5uyqYIt5lnaa-es-aeeeYHKYlLrB608L3TCN94fU56Z7PA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnwYhPoS8jibf2Vz8M5uyqYIt5lnaa-es-aeeeYHKYlLrB608L3TCN94fU56Z7PA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -154,7 +168,7 @@ aside: true
     <h3 class="presentation-title">Unraveling the Dynamics of Sustained Visual Experience: Exploring Neural Activation with Varying Stimulus Durations | Tuesday Lunch Talk, Max Planck institute for empirical aesthetics, 2023</h3>
     <p class="presentation-abstract">
         I presented the results of studies in which we explored the neural mechanisms that sustain conscious perception, beyond the initial entry into awareness. Using visual stimuli of different durations, alongside invasive electrophysiology and behavioral reports from epilepsy patients, we tested predictions from Integrated Information Theory (IIT) and Global Neuronal Workspace Theory (GNW). We found sustained activation in posterior regions but only transient activation in the prefrontal cortex, suggesting it may not be crucial for consciousness. Additional behavioral tests indicated that conscious while participants consciously experience the onset and offset of the visual stimulus, the depth of conscious processing of the offset was much shallower and potentially not present on every single trial.
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEF3ozTvmwEBT9CFF4VPkt-ya9p-wVFzg1QcTZtYQ_DZz0EVYmOpNW7N5XwZLwtw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEF3ozTvmwEBT9CFF4VPkt-ya9p-wVFzg1QcTZtYQ_DZz0EVYmOpNW7N5XwZLwtw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -167,7 +181,7 @@ aside: true
     <h3 class="presentation-title">Refining our understanding of the neural mechanisms enabling consciousness by relying on theories predictive power</h3>
     <p class="presentation-abstract">
         In this talk, I present the result of my investigations regarding the neural mechanisms associated with conscious experience and highlight how we can rely on theories of consciousness to guide experiments and discoveries. For the most part, consciousness research has been conducted in a bottom up fashion, where experiments are being designed to isolate neural activity patterns that are systematically associated with consciousness. Based on the results of such experiments, theories of consciousness were formulated, proposing overarching mechanisms to be the source of consciousness. However, the field is currently fragmented, such that different theories are pursued in parallel, considering only part of the existing empirical evidence to be conclusive and discarding others based on methodological discords. In my research, I aim to help move the field forward by relying on a top down approach instead, whereby theories of consciousness formulate predictions a priori based on their current model. Failure to observe these predictions imply that the theories are at the very least incomplete and must be further refined.
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9ZQLBXMeWu8495BMIJBWvWGm6JCpc_-W6hRfvrqDrkqBsqA5LdtGZZG7xBEmdRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9ZQLBXMeWu8495BMIJBWvWGm6JCpc_-W6hRfvrqDrkqBsqA5LdtGZZG7xBEmdRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -180,7 +194,7 @@ aside: true
     <h3 class="presentation-title">Discussion and advice on how to facilitate working together in science</h3>
     <p class="presentation-abstract">
         In this workshop, I shared several practical advice with my fellow Phd colleagues on the few easy steps that can be taken to facilitates working together with other scientists (use git and github, define a clear data architecture a priori...)
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBclhIO3ZBt3Jj9QqwBYSd_DC0ah_YGw-LsxW9HEZBiXu2Q-MEyXslPCBhb1vMmw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBclhIO3ZBt3Jj9QqwBYSd_DC0ah_YGw-LsxW9HEZBiXu2Q-MEyXslPCBhb1vMmw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </p>
   </div>
 </div>
@@ -199,7 +213,7 @@ aside: true
         <a href="https://scholar.google.co.il/citations?user=Ie-iMfQAAAAJ&hl=en">Rony Hirschhorn</a>, 
         and <a href="https://scholar.google.com/citations?user=aI8u_WUAAAAJ&hl=en">Csaba Kozma</a>.
         </p>
-      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBclhIO3ZBt3Jj9QqwBYSd_DC0ah_YGw-LsxW9HEZBiXu2Q-MEyXslPCBhb1vMmw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBclhIO3ZBt3Jj9QqwBYSd_DC0ah_YGw-LsxW9HEZBiXu2Q-MEyXslPCBhb1vMmw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   </div>
 </div>
 
