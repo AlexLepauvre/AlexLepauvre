@@ -5,10 +5,27 @@
         <li class="item  item--post">
           <article class="article  article--post">
 
-            <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+            <h2>
+              <a href="{{ site.baseurl }}{{ page.url }}">
+                {{ page.title }}
+              </a>
+            </h2>
             {% include post-meta.html %}
-            {{ page.excerpt | markdownify | truncatewords: 60 }}
 
+            {% if page.image %}
+              <div class="post-card">
+                <div class="post-card__image">
+                  <img src="{{ page.image }}" alt="{{ page.title }}">
+                </div>
+                <div class="post-card__excerpt">
+                  {{ page.excerpt | markdownify | truncatewords: 60 }}
+                </div>
+              </div>
+            {% else %}
+              <div class="post-card__excerpt">
+                {{ page.excerpt | markdownify | truncatewords: 60 }}
+              </div>
+            {% endif %}
           </article>
         </li>
       {% endfor %}
@@ -24,8 +41,20 @@
 
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
             {% include post-meta.html %}
-            {{ page.excerpt | markdownify | truncatewords: 60 }}
-
+            {% if page.image %}
+              <div class="post-card">
+                <div class="post-card__image">
+                  <img src="{{ page.image }}" alt="{{ page.title }}">
+                </div>
+                <div class="post-card__excerpt">
+                  {{ page.excerpt | markdownify | truncatewords: 60 }}
+                </div>
+              </div>
+            {% else %}
+              <div class="post-card__excerpt">
+                {{ page.excerpt | markdownify | truncatewords: 60 }}
+              </div>
+            {% endif %}
           </article>
         </li>
       {% endfor %}
