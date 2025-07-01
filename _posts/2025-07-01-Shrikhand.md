@@ -2,6 +2,8 @@
 title: Shrikhand
 categories:
 - Vegetarian
+- Vegan
+- Dessert
 feature_image: "/assets/banner/blog_banner.jpeg"
 image: "/assets/blog/shrikhand.jpeg"
 ---
