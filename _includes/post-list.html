@@ -15,7 +15,7 @@
             {% if page.image %}
               <div class="post-card">
                 <div class="post-card__image">
-                  <img src="{{ page.image }}" alt="{{ page.title }}">
+                  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
                 </div>
                 <div class="post-card__excerpt">
                   {{ page.excerpt | markdownify | truncatewords: 60 }}
@@ -44,7 +44,7 @@
             {% if page.image %}
               <div class="post-card">
                 <div class="post-card__image">
-                  <img src="{{ page.image }}" alt="{{ page.title }}">
+                  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
                 </div>
                 <div class="post-card__excerpt">
                   {{ page.excerpt | markdownify | truncatewords: 60 }}

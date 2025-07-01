@@ -26,3 +26,23 @@
 .post-card__excerpt {
   flex: 1;
 }
+.post-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2em;
+  align-items: start;
+}
+
+.post-grid__image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+/* Responsive: stack columns on narrow screens */
+@media (max-width: 768px) {
+  .post-grid {
+    grid-template-columns: 1fr;
+  }
+}
