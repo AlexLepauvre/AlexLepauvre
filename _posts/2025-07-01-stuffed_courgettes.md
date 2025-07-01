@@ -4,8 +4,8 @@ categories:
 - Vegetarian
 - Dairy
 - Gluten
-feature_image: "../assets/banner/blog_banner.jpg"
-image: "../assets/blog/stuffed_courgettes.jpg"
+feature_image: "{{ site.baseurl }}assets/banner/blog_banner.jpg"
+image: "{{ site.baseurl }}assets/blog/stuffed_courgettes.jpg"
 ---
 
 A great fresh recipe, good to deal with the courgettes overload if you've planted them in your garden.
