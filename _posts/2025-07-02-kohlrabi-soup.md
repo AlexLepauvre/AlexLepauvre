@@ -1,10 +1,10 @@
 ---
-title: Stuffed courgettes
+title: Kohlrabi soup with red curry
 categories:
 - Vegan
 - Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
-image: "/assets/blog/kohlrabi_soup.jpg"
+image: "/assets/blog/kohlrabi_soup.jpeg"
 ---
 
 Kohlrabi is a bit of a difficult veggie. Some people love it raw, but it's a bit particular. And when cooked, it often tastes a bit off. This recipe is a great way to use kohlrabi in a way that its flavour is not too overpowering while still coming through a bit.
