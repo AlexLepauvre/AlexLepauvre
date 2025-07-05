@@ -2,7 +2,7 @@
 title: 
 feature_text: |
      
-feature_image: "../assets/banner/banner_github.jpg"
+feature_image: "/assets/banner/banner_github.jpg"
 aside: true
 ---
 <style>

@@ -2,7 +2,7 @@
 title: 
 feature_text: |
    
-feature_image: "../assets/banner/banner_github.jpg"
+feature_image: "/assets/banner/banner_github.jpg"
 aside: true
 ---
 <!-- Style for the timeline with right-aligned location/duration and boxed content -->
