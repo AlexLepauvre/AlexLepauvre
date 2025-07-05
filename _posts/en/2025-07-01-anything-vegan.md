@@ -2,8 +2,11 @@
 title: Vegan stir fry
 categories:
 - Vegan
+- Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
 image: "/assets/blog/vegan_stir_fry.jpeg"
+ref: vegan_stir_fry
+layout: post
 ---
 
 This isn't a recipe for a single dish, but rather the basics for sort of a sauce that will enable you to do many dishes. I eat some variation of this several times a week, and it never disappoints. The sauce has very 3 basic elements, to which you can add whatever your heart desires, and you can use it with any combinations of ingredients

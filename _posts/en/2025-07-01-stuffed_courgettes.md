@@ -7,6 +7,8 @@ categories:
 - Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
 image: "/assets/blog/stuffed_courgettes.jpg"
+ref: stuffed_courgettes
+layout: post
 ---
 
 A great summer recipe, good to deal with the courgettes overload if you've planted them in your garden. It can be eaten on its own or with a side of salad. And I recommend to make a bit more than you think you will eat, courgette is not particularly filling, so you might eat more than you think. 
