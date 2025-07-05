@@ -1,0 +1,31 @@
+{% comment %}
+Language switcher – script-proof, list-free.
+
+• Requires _data/languages.yml  e.g.
+    en: { label: English }
+    de: { label: Deutsch }
+    fr: { label: Français }
+
+• Each translation set must share the same `ref:` in front-matter.
+{% endcomment %}
+
+{% assign langs = site.data.languages %}
+{% assign siblings = site.posts | where: "ref", page.ref %}
+
+{% if siblings.size > 1 %}
+<nav class="lang-switch" aria-label="Language selector">
+  {% for lang in langs %}
+    {% assign alt = siblings | where: "language", lang[0] | first %}
+    {% if alt %}
+      {% if lang[0] == page.language %}
+        <span class="lang-current">{{ lang[1].label }}</span>
+      {% else %}
+        <a class="lang-link" href="{{ alt.url | relative_url }}" hreflang="{{ lang[0] }}">
+          {{ lang[1].label }}
+        </a>
+      {% endif %}
+      {% unless forloop.last %}&nbsp;·&nbsp;{% endunless %}
+    {% endif %}
+  {% endfor %}
+</nav>
+{% endif %}

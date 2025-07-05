@@ -46,3 +46,31 @@
     grid-template-columns: 1fr;
   }
 }
+/* Language switcher */
+/* Simple, centred language bar */
+.lang-switch {
+  text-align: center;
+  margin: 1.5rem 0;
+  font-size: 1.2rem;
+}
+
+.lang-switch a,
+.lang-switch .lang-current {
+  font-weight: 700;
+  margin: 0 0.5rem;
+  padding: 0.4em 0.8em; 
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+.lang-switch a:hover {
+  background-color: #dcdcdc;
+}
+
+.lang-switch .lang-current {
+  background-color: #333;
+  color: #fff;
+  text-decoration: underline;  /* ← underline only for current language */
+  cursor: default;
+}
+

@@ -1,63 +1,59 @@
-{% if paginator.posts %}
-  <section class="section  typeset">
-    <ul class="list  list--posts">
-      {% for page in paginator.posts %}
-        <li class="item  item--post">
-          <article class="article  article--post">
+{%- comment -%}
+  Post list for a language-specific blog index.
+  
+  • The index page *must* have `language:` in its front-matter (en, de, fr …).
+  • Pagination: if jekyll-paginate / paginator is enabled, we start from
+    `paginator.posts`; otherwise we fall back to `site.posts`.
+  • We then filter that list by the current language so only matching
+    articles render and no duplicates appear across languages.
+{%- endcomment -%}
 
-            <h2>
-              <a href="{{ site.baseurl }}{{ page.url }}">
-                {{ page.title }}
-              </a>
-            </h2>
-            {% include post-meta.html %}
+{%- assign current_lang = page.language | default: 'en' -%}
 
-            {% if page.image %}
-              <div class="post-card">
-                <div class="post-card__image">
-                  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
-                </div>
-                <div class="post-card__excerpt">
-                  {{ page.excerpt | markdownify | truncatewords: 60 }}
-                </div>
+{%- if paginator and paginator.posts -%}
+  {%- assign all_posts = paginator.posts -%}
+{%- else -%}
+  {%- assign all_posts = site.posts -%}
+{%- endif -%}
+
+{%- assign lang_posts = all_posts | where: "language", current_lang -%}
+
+{%- if lang_posts != empty -%}
+<section class="section  typeset">
+  <ul class="list  list--posts">
+    {%- for page in lang_posts -%}
+      <li class="item  item--post">
+        <article class="article  article--post">
+          
+          <h2>
+            <a href="{{ page.url | relative_url }}">
+              {{ page.title }}
+            </a>
+          </h2>
+          
+          {%- include post-meta.html -%}
+
+          {%- if page.image -%}
+            <div class="post-card">
+              <div class="post-card__image">
+                <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
               </div>
-            {% else %}
               <div class="post-card__excerpt">
                 {{ page.excerpt | markdownify | truncatewords: 60 }}
               </div>
-            {% endif %}
-          </article>
-        </li>
-      {% endfor %}
-    </ul>
-    {% include post-pagination.html %}
-  </section>
-{% else %}
-  <section class="section  typeset">
-    <ul class="list  list--posts">
-      {% for page in site.posts %}
-        <li class="item  item--post">
-          <article class="article  article--post">
+            </div>
+          {%- else -%}
+            <div class="post-card__excerpt">
+              {{ page.excerpt | markdownify | truncatewords: 60 }}
+            </div>
+          {%- endif -%}
+        </article>
+      </li>
+    {%- endfor -%}
+  </ul>
 
-            <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
-            {% include post-meta.html %}
-            {% if page.image %}
-              <div class="post-card">
-                <div class="post-card__image">
-                  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
-                </div>
-                <div class="post-card__excerpt">
-                  {{ page.excerpt | markdownify | truncatewords: 60 }}
-                </div>
-              </div>
-            {% else %}
-              <div class="post-card__excerpt">
-                {{ page.excerpt | markdownify | truncatewords: 60 }}
-              </div>
-            {% endif %}
-          </article>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
-{% endif %}
+  {%- if paginator -%}
+    {%- include post-pagination.html -%}
+  {%- endif -%}
+</section>
+{%- endif -%}

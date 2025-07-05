@@ -69,7 +69,7 @@ collections:
     feature_text: |
       Welcome to the blog
     feature_image: "/assets/banner/blog_banner.jpeg"
-
+permalink: pretty      # keep pretty URLs
 # 6. Jekyll collections settings
 defaults:
   -
@@ -77,12 +77,24 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: "_posts/en"
+      type: posts
     values:
-      layout: post # Set the default layout for posts
+      language: en
+      permalink: /en/:categories/:year/:month/:day/:title/
+  - scope:
+      path: "_posts/de"
+      type: posts
+    values:
+      language: de
+      permalink: /de/:categories/:year/:month/:day/:title/
+  - scope:
+      path: "_posts/fr"
+      type: posts
+    values:
+      language: fr
+      permalink: /fr/:categories/:year/:month/:day/:title/
   -
     scope:
       path: ""
