@@ -2,6 +2,7 @@
 title: Vegane Pfanne
 categories:
 - Vegan
+- Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
 image: "/assets/blog/vegan_stir_fry.jpeg"
 

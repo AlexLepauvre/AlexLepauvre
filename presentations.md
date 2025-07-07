@@ -68,6 +68,19 @@ aside: true
 
 <div class="presentation">
   <div class="presentation-image-info">
+    <p class="presentation-info">PhD defense (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">PhD defense, Radboub University Nijemegen</a></p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Temporal crossroads: probing the temporal dynamics of experience to refine theories of consciousness</h3>
+    <p class="presentation-abstract">
+      On the 27th of June 2025, and after almost 5 years of work, I had the honor to defend my PhD thesis titled 'Temporal crossroads: Probing the dynamics of experience to refine theories of consciousness' at the Radboud University, Nijmegen (NL). Thanks to all members of my committee and to all who made this possible, as well as all the attendees.
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HC_vTEf2fxc?si=Z5bbLKxknEmqNHWX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
+  </div>
+</div>
+
+<div class="presentation">
+  <div class="presentation-image-info">
     <p class="presentation-info">Research talk (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">Meeting of the Alhambra, Granada</a></p>
   </div>
   <div class="presentation-content">

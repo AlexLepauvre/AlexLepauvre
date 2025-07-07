@@ -2,7 +2,7 @@
 title: Kohlrabisuppe mit rotem Curry
 categories:
 - Vegan
-- Hauptgericht
+- Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
 image: "/assets/blog/kohlrabi_soup.jpeg"
 ref: kohlrabi_soup

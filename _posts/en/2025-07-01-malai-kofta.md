@@ -65,3 +65,5 @@ It's an indian dish that consists of potato + fresh cheese (paneer) deep fried b
 - In a plate, place the tomato sauce and add the kofta on top
 - you can additionally garnish by adding coriander leaves
   
+# original recipe
+This recipe is slightly adpted from: https://www.indianhealthyrecipes.com/malai-kofta-recipe/#wprm-recipe-container-37350

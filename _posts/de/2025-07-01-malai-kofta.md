@@ -63,3 +63,6 @@ Das ist ein indisches Gericht, das aus frittierten Bällchen aus Kartoffeln und 
 ## Servieren
 - Auf einem Teller zuerst die Tomatensoße verteilen und dann die Kofta daraufsetzen.
 - Optional mit frischen Korianderblättern garnieren.
+
+# original Rezept
+Adaptiert von: https://www.indianhealthyrecipes.com/malai-kofta-recipe/#wprm-recipe-container-37350

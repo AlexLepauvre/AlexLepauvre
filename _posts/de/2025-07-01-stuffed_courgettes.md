@@ -1,10 +1,10 @@
 ---
 title: Gefüllte Zucchini
 categories:
-- Vegetarisch
-- Milchprodukte
+- Vegetarian
+- Dairy
 - Gluten
-- Hauptgericht
+- Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
 image: "/assets/blog/stuffed_courgettes.jpg"
 ref: stuffed_courgettes
