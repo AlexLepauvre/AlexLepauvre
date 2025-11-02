@@ -4,7 +4,7 @@ categories:
 - Vegan
 - side
 feature_image: "/assets/banner/blog_banner.jpeg"
-image: "/assets/blog/aubergine_salad.jpeg"
+image: "/assets/blog/aubergine_salad.jpg"
 ref: aubergine_salad
 layout: post
 ---

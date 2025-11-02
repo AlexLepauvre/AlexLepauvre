@@ -4,7 +4,7 @@ categories:
 - Vegan
 - Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
-image: "/assets/blog/vegetarian_lamachun.jpeg"
+image: "/assets/blog/vegetarian_lamachun.jpg"
 ref: vegetarian_lamachun
 layout: post
 ---

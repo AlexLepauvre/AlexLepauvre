@@ -4,12 +4,12 @@ categories:
 - Vegan
 - side
 feature_image: "/assets/banner/blog_banner.jpeg"
-image: "/assets/blog/aubergine_salad.jpeg"
+image: "/assets/blog/aubergine_salad.jpg"
 ref: aubergine_salad
 layout: post
 ---
 
-Lamachun is a delicious turkish dish, often referred to as Turkish pizza. It is usually made with minced meat, but this is a vegetarian version that also tastes delicious!
+Charred aubergine salad is a great and healthy mediteranean side dish!
 
 <!-- more -->
 
@@ -32,3 +32,4 @@ Lamachun is a delicious turkish dish, often referred to as Turkish pizza. It is 
 4. Chop spring onions and mix with paprika and aubergine
 5. add vinegar, lemon juice, olive oil and chopped parsley
 6. Salt and pepper to taste
+   

@@ -4,79 +4,58 @@ categories:
 - Vegan
 - Main dish
 feature_image: "/assets/banner/blog_banner.jpeg"
-image: "/assets/blog/vegetarian_lamachun.jpeg"
+image: "/assets/blog/vegetarian_lamachun.jpg"
 ref: vegetarian_lamachun
 layout: post
 ---
 
-Lahmacun ist ein köstliches türkisches Gericht, oft auch als „türkische Pizza“ bezeichnet. Normalerweise wird es mit Hackfleisch zubereitet, aber diese vegetarische Variante schmeckt genauso lecker!
+Le lahmacun est un délicieux plat turc, souvent appelé « pizza turque ». Il est généralement préparé avec de la viande hachée, mais voici une version végétarienne tout aussi savoureuse !
 
 <!-- more -->
-Zutaten (für 4 Portionen)
-Teig
 
-125 mL Wasser
+# Ingrédients (pour 4 portions)
 
-1/2 TL Zucker
+## Pâte
 
-1/2 TL Salz
+* 125 mL d’eau
+* 1/2 c. à c. de sucre
+* 1/2 c. à c. de sel
+* 1 c. à s. d’huile d’olive
+* 7 g de levure
+* 250 g de farine
 
-1 EL Olivenöl
+## Garniture
 
-7 g Hefe
+* 1 oignon
+* 1 gousse d’ail
+* 1 petit poivron
+* 2 tomates
+* Persil (selon le goût)
+* 120 g de haricots rouges
+* 1 c. à s. de concentré de tomate
+* 1 c. à c. de paprika
+* 1 c. à c. de thym
+* 1 c. à c. de cumin
 
-250 g Mehl
+# Préparation
 
-Belag
+## Pâte
 
-1 Zwiebel
+1. Mélanger l’eau, la farine et la levure jusqu’à incorporation, puis ajouter le sel.
+2. Pétrir la pâte jusqu’à ce qu’elle soit lisse.
+3. Laisser lever pendant 1 heure.
 
-1 Knoblauchzehe
+## Mousse de haricots rouges
 
-1 kleine Paprika
+1. Hacher finement le poivron, l’oignon et l’ail.
+2. Dans un mixeur, réduire les haricots rouges et le concentré de tomate en purée.
+3. Mélanger la mousse de haricots avec le poivron, l’oignon, l’ail, les épices et le persil haché.
 
-2 Tomaten
+## Lahmacun
 
-Petersilie (nach Geschmack)
-
-120 g Kidneybohnen
-
-1 EL Tomatenmark
-
-1 TL Paprikapulver
-
-1 TL Thymian
-
-1 TL Kreuzkümmel
-
-Zubereitung
-Teig
-
-Wasser, Mehl und Hefe vermengen, bis alles gut vermischt ist, dann Salz hinzufügen.
-
-Den Teig glatt und geschmeidig kneten.
-
-1 Stunde gehen lassen.
-
-Kidneybohnen-Creme
-
-Paprika, Zwiebel und Knoblauch fein würfeln.
-
-Kidneybohnen und Tomatenmark im Mixer zu einer glatten Masse verarbeiten.
-
-Die Bohnencreme mit Paprika, Zwiebel, Knoblauch, Gewürzen und gehackter Petersilie vermischen.
-
-Lahmacun
-
-Den Ofen auf 220 °C vorheizen.
-
-Den Teig in so viele Portionen teilen, wie Lahmacun gebacken werden sollen, und zu Kugeln formen.
-
-Die Kugeln so dünn wie möglich ausrollen.
-
-Die Kidneybohnen-Creme gleichmäßig darauf verteilen.
-
-Im Ofen 8–10 Minuten backen.
-
-Nach dem Backen mit gehackten Tomaten, Gurken und Zitronensaft belegen, aufrollen und genießen.
-
+1. Préchauffer le four à 220 °C.
+2. Diviser la pâte en autant de portions que de lahmacuns souhaités et les façonner en boules.
+3. Étaler les boules aussi finement que possible.
+4. Étaler la mousse de haricots rouges sur le dessus.
+5. Enfourner pendant 8 à 10 minutes.
+6. Une fois cuits, garnir de tomates et de concombre coupés, arroser de jus de citron, rouler et déguster.

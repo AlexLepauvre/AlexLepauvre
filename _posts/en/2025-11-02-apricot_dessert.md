@@ -2,9 +2,9 @@
 title: Kayısı Tatlısı
 categories:
 - Vegan
-- desert
+- dessert
 feature_image: "/assets/banner/blog_banner.jpeg"
-image: "/assets/blog/kayisi_tatlisi.jpeg"
+image: "/assets/blog/kayisi_tatlisi.jpg"
 ref: kayisi_tatlisi
 layout: post
 ---
