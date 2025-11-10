@@ -69,7 +69,7 @@ aside: true
 
 <div class="presentation">
   <div class="presentation-image-info">
-    <p class="presentation-info">PhD defense (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">PhD defense, Radboub University Nijemegen</a></p>
+    <p class="presentation-info">Autumn school | Master of translational neuroscience Wuerzburg</p>
   </div>
   <div class="presentation-content">
     <h3 class="presentation-title">Why does anything feels like anything? Testing theories of conscious to (eventually) understand</h3>
@@ -82,7 +82,7 @@ aside: true
 
 <div class="presentation">
   <div class="presentation-image-info">
-    <p class="presentation-info">PhD defense (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">PhD defense, Radboub University Nijemegen</a></p>
+    <p class="presentation-info">PhD defense (2025) | Radboub University Nijemegen</a></p>
   </div>
   <div class="presentation-content">
     <h3 class="presentation-title">Temporal crossroads: probing the temporal dynamics of experience to refine theories of consciousness</h3>
