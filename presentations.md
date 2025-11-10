@@ -66,6 +66,20 @@ aside: true
 
 # Presentation
 
+
+<div class="presentation">
+  <div class="presentation-image-info">
+    <p class="presentation-info">PhD defense (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">PhD defense, Radboub University Nijemegen</a></p>
+  </div>
+  <div class="presentation-content">
+    <h3 class="presentation-title">Why does anything feels like anything? Testing theories of conscious to (eventually) understand</h3>
+    <p class="presentation-abstract">
+      The ultimate goal of the neuroscience of consciousness is to identify the neural mechanisms giving rise to conscious experiences. To achieve this goal, the field has focused on the search for the neural correlates of consciousness, the minimal set of neuronal events sufficient for the occurence of consciousness using the contrastive approach. While highly informative, this approach suffers from methodological limitations, leading to the current situation in which all parts of the brain have been called a neural correlate of consciousness at one point or another. In this talk, I present an alternative to the bottom-up agenda: testing theories of consciousness. This approach constitutes an epistemological shift: away from correlation towards hypothetico-deductivisim. I present the result of the cogitate project which adopted this approach. I highlight that while theory falisification is at this stage premature, there is a lot to learn in testing theories of consciousness, both for the theories themselves but also about consciousness itself. As such, theory testing appears as a complementary approach to the search for the NCCs that I argue will be necessary to (eventually) crack the problem of consciousness.  
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKx2d6VypZ2vAscYQaZupglVLTUq85oqqSo_MShdMdsTVcARUozGnjBqU0SnK3Kg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </p>
+  </div>
+</div>
+
 <div class="presentation">
   <div class="presentation-image-info">
     <p class="presentation-info">PhD defense (2025) | <a href="https://sites.google.com/view/granada-consciousness/home">PhD defense, Radboub University Nijemegen</a></p>
